@@ -1,0 +1,3763 @@
+{
+  "data": [
+    {
+      "mal_id": 60098,
+      "url": "https://myanimelist.net/anime/60098/Boku_no_Hero_Academia__Final_Season",
+      "images": {
+        "jpg": {
+          "image_url": "https://cdn.myanimelist.net/images/anime/1766/146050.jpg",
+          "small_image_url": "https://cdn.myanimelist.net/images/anime/1766/146050t.jpg",
+          "large_image_url": "https://cdn.myanimelist.net/images/anime/1766/146050l.jpg"
+        },
+        "webp": {
+          "image_url": "https://cdn.myanimelist.net/images/anime/1766/146050.webp",
+          "small_image_url": "https://cdn.myanimelist.net/images/anime/1766/146050t.webp",
+          "large_image_url": "https://cdn.myanimelist.net/images/anime/1766/146050l.webp"
+        }
+      },
+      "trailer": {
+        "youtube_id": "sqL0XDlV2PU",
+        "url": "https://www.youtube.com/watch?v=sqL0XDlV2PU",
+        "embed_url": "https://www.youtube.com/embed/sqL0XDlV2PU?enablejsapi=1&wmode=opaque&autoplay=1",
+        "images": {
+          "image_url": "https://img.youtube.com/vi/sqL0XDlV2PU/default.jpg",
+          "small_image_url": "https://img.youtube.com/vi/sqL0XDlV2PU/sddefault.jpg",
+          "medium_image_url": "https://img.youtube.com/vi/sqL0XDlV2PU/mqdefault.jpg",
+          "large_image_url": "https://img.youtube.com/vi/sqL0XDlV2PU/hqdefault.jpg",
+          "maximum_image_url": "https://img.youtube.com/vi/sqL0XDlV2PU/maxresdefault.jpg"
+        }
+      },
+      "approved": true,
+      "titles": [
+        {
+          "type": "Default",
+          "title": "Boku no Hero Academia: Final Season"
+        },
+        {
+          "type": "Synonym",
+          "title": "My Hero Academia 8"
+        },
+        {
+          "type": "Japanese",
+          "title": "僕のヒーローアカデミア FINAL SEASON"
+        },
+        {
+          "type": "English",
+          "title": "My Hero Academia Final Season"
+        }
+      ],
+      "title": "Boku no Hero Academia: Final Season",
+      "title_english": "My Hero Academia Final Season",
+      "title_japanese": "僕のヒーローアカデミア FINAL SEASON",
+      "title_synonyms": [
+        "My Hero Academia 8"
+      ],
+      "type": "TV",
+      "source": "Manga",
+      "episodes": null,
+      "status": "Not yet aired",
+      "airing": false,
+      "aired": {
+        "from": "2025-10-01T00:00:00+00:00",
+        "to": null,
+        "prop": {
+          "from": {
+            "day": 1,
+            "month": 10,
+            "year": 2025
+          },
+          "to": {
+            "day": null,
+            "month": null,
+            "year": null
+          }
+        },
+        "string": "Oct 2025 to ?"
+      },
+      "duration": "Unknown",
+      "rating": "PG-13 - Teens 13 or older",
+      "score": null,
+      "scored_by": null,
+      "rank": null,
+      "popularity": 2939,
+      "members": 61906,
+      "favorites": 154,
+      "synopsis": "Final season of Boku no Hero Academia.",
+      "background": "",
+      "season": "fall",
+      "year": 2025,
+      "broadcast": {
+        "day": null,
+        "time": null,
+        "timezone": null,
+        "string": "Unknown"
+      },
+      "producers": [
+        {
+          "mal_id": 1143,
+          "type": "anime",
+          "name": "TOHO animation",
+          "url": "https://myanimelist.net/anime/producer/1143/TOHO_animation"
+        }
+      ],
+      "licensors": [],
+      "studios": [
+        {
+          "mal_id": 4,
+          "type": "anime",
+          "name": "Bones",
+          "url": "https://myanimelist.net/anime/producer/4/Bones"
+        }
+      ],
+      "genres": [
+        {
+          "mal_id": 1,
+          "type": "anime",
+          "name": "Action",
+          "url": "https://myanimelist.net/anime/genre/1/Action"
+        }
+      ],
+      "explicit_genres": [],
+      "themes": [
+        {
+          "mal_id": 23,
+          "type": "anime",
+          "name": "School",
+          "url": "https://myanimelist.net/anime/genre/23/School"
+        },
+        {
+          "mal_id": 31,
+          "type": "anime",
+          "name": "Super Power",
+          "url": "https://myanimelist.net/anime/genre/31/Super_Power"
+        }
+      ],
+      "demographics": [
+        {
+          "mal_id": 27,
+          "type": "anime",
+          "name": "Shounen",
+          "url": "https://myanimelist.net/anime/genre/27/Shounen"
+        }
+      ]
+    },
+    {
+      "mal_id": 31964,
+      "url": "https://myanimelist.net/anime/31964/Boku_no_Hero_Academia",
+      "images": {
+        "jpg": {
+          "image_url": "https://cdn.myanimelist.net/images/anime/10/78745.jpg",
+          "small_image_url": "https://cdn.myanimelist.net/images/anime/10/78745t.jpg",
+          "large_image_url": "https://cdn.myanimelist.net/images/anime/10/78745l.jpg"
+        },
+        "webp": {
+          "image_url": "https://cdn.myanimelist.net/images/anime/10/78745.webp",
+          "small_image_url": "https://cdn.myanimelist.net/images/anime/10/78745t.webp",
+          "large_image_url": "https://cdn.myanimelist.net/images/anime/10/78745l.webp"
+        }
+      },
+      "trailer": {
+        "youtube_id": "D5fYOnwYkj4",
+        "url": "https://www.youtube.com/watch?v=D5fYOnwYkj4",
+        "embed_url": "https://www.youtube.com/embed/D5fYOnwYkj4?enablejsapi=1&wmode=opaque&autoplay=1",
+        "images": {
+          "image_url": "https://img.youtube.com/vi/D5fYOnwYkj4/default.jpg",
+          "small_image_url": "https://img.youtube.com/vi/D5fYOnwYkj4/sddefault.jpg",
+          "medium_image_url": "https://img.youtube.com/vi/D5fYOnwYkj4/mqdefault.jpg",
+          "large_image_url": "https://img.youtube.com/vi/D5fYOnwYkj4/hqdefault.jpg",
+          "maximum_image_url": "https://img.youtube.com/vi/D5fYOnwYkj4/maxresdefault.jpg"
+        }
+      },
+      "approved": true,
+      "titles": [
+        {
+          "type": "Default",
+          "title": "Boku no Hero Academia"
+        },
+        {
+          "type": "Japanese",
+          "title": "僕のヒーローアカデミア"
+        },
+        {
+          "type": "English",
+          "title": "My Hero Academia"
+        },
+        {
+          "type": "German",
+          "title": "My Hero Academia"
+        },
+        {
+          "type": "Spanish",
+          "title": "My Hero Academia"
+        },
+        {
+          "type": "French",
+          "title": "My Hero Academia"
+        }
+      ],
+      "title": "Boku no Hero Academia",
+      "title_english": "My Hero Academia",
+      "title_japanese": "僕のヒーローアカデミア",
+      "title_synonyms": [],
+      "type": "TV",
+      "source": "Manga",
+      "episodes": 13,
+      "status": "Finished Airing",
+      "airing": false,
+      "aired": {
+        "from": "2016-04-03T00:00:00+00:00",
+        "to": "2016-06-26T00:00:00+00:00",
+        "prop": {
+          "from": {
+            "day": 3,
+            "month": 4,
+            "year": 2016
+          },
+          "to": {
+            "day": 26,
+            "month": 6,
+            "year": 2016
+          }
+        },
+        "string": "Apr 3, 2016 to Jun 26, 2016"
+      },
+      "duration": "24 min per ep",
+      "rating": "PG-13 - Teens 13 or older",
+      "score": 7.85,
+      "scored_by": 2124632,
+      "rank": 920,
+      "popularity": 7,
+      "members": 3120666,
+      "favorites": 53778,
+      "synopsis": "The appearance of quirks,newly discovered super powers, has been steadily increasing over the years, with 80 percent of humanity possessing various abilities from manipulation of elements to shapeshifting. This leaves the remainder of the world completely powerless, and Izuku Midoriya is one such individual. Since he was a child, the ambitious middle schooler has wanted nothing more than to be a hero. Izuku's unfair fate leaves him admiring heroes and taking notes on them whenever he can. But it seems that his persistence has borne some fruit: Izuku meets the number one hero and his personal idol, All Might. All Might's quirk is a unique ability that can be inherited, and he has chosen Izuku to be his successor! Enduring many months of grueling training, Izuku enrolls in UA High, a prestigious high school famous for its excellent hero training program, and this year's freshmen look especially promising. With his bizarre but talented classmates and the looming threat of a villainous organization, Izuku will soon learn what it really means to be a hero. [Written by MAL Rewrite]",
+      "background": "Mangaka Horikoushi Kouhei has noted that American superhero comics are the inspiration for the series, and has based character pages on logos for Marvel and DC comic characters.",
+      "season": "spring",
+      "year": 2016,
+      "broadcast": {
+        "day": "Sundays",
+        "time": "17:00",
+        "timezone": "Asia/Tokyo",
+        "string": "Sundays at 17:00 (JST)"
+      },
+      "producers": [
+        {
+          "mal_id": 53,
+          "type": "anime",
+          "name": "Dentsu",
+          "url": "https://myanimelist.net/anime/producer/53/Dentsu"
+        },
+        {
+          "mal_id": 143,
+          "type": "anime",
+          "name": "Mainichi Broadcasting System",
+          "url": "https://myanimelist.net/anime/producer/143/Mainichi_Broadcasting_System"
+        },
+        {
+          "mal_id": 166,
+          "type": "anime",
+          "name": "Movic",
+          "url": "https://myanimelist.net/anime/producer/166/Movic"
+        },
+        {
+          "mal_id": 1143,
+          "type": "anime",
+          "name": "TOHO animation",
+          "url": "https://myanimelist.net/anime/producer/1143/TOHO_animation"
+        },
+        {
+          "mal_id": 1365,
+          "type": "anime",
+          "name": "Shueisha",
+          "url": "https://myanimelist.net/anime/producer/1365/Shueisha"
+        }
+      ],
+      "licensors": [
+        {
+          "mal_id": 102,
+          "type": "anime",
+          "name": "Funimation",
+          "url": "https://myanimelist.net/anime/producer/102/Funimation"
+        }
+      ],
+      "studios": [
+        {
+          "mal_id": 4,
+          "type": "anime",
+          "name": "Bones",
+          "url": "https://myanimelist.net/anime/producer/4/Bones"
+        }
+      ],
+      "genres": [
+        {
+          "mal_id": 1,
+          "type": "anime",
+          "name": "Action",
+          "url": "https://myanimelist.net/anime/genre/1/Action"
+        }
+      ],
+      "explicit_genres": [],
+      "themes": [
+        {
+          "mal_id": 23,
+          "type": "anime",
+          "name": "School",
+          "url": "https://myanimelist.net/anime/genre/23/School"
+        },
+        {
+          "mal_id": 31,
+          "type": "anime",
+          "name": "Super Power",
+          "url": "https://myanimelist.net/anime/genre/31/Super_Power"
+        }
+      ],
+      "demographics": [
+        {
+          "mal_id": 27,
+          "type": "anime",
+          "name": "Shounen",
+          "url": "https://myanimelist.net/anime/genre/27/Shounen"
+        }
+      ]
+    },
+    {
+      "mal_id": 33486,
+      "url": "https://myanimelist.net/anime/33486/Boku_no_Hero_Academia_2nd_Season",
+      "images": {
+        "jpg": {
+          "image_url": "https://cdn.myanimelist.net/images/anime/12/85221.jpg",
+          "small_image_url": "https://cdn.myanimelist.net/images/anime/12/85221t.jpg",
+          "large_image_url": "https://cdn.myanimelist.net/images/anime/12/85221l.jpg"
+        },
+        "webp": {
+          "image_url": "https://cdn.myanimelist.net/images/anime/12/85221.webp",
+          "small_image_url": "https://cdn.myanimelist.net/images/anime/12/85221t.webp",
+          "large_image_url": "https://cdn.myanimelist.net/images/anime/12/85221l.webp"
+        }
+      },
+      "trailer": {
+        "youtube_id": "HoIOW6no_Ew",
+        "url": "https://www.youtube.com/watch?v=HoIOW6no_Ew",
+        "embed_url": "https://www.youtube.com/embed/HoIOW6no_Ew?enablejsapi=1&wmode=opaque&autoplay=1",
+        "images": {
+          "image_url": "https://img.youtube.com/vi/HoIOW6no_Ew/default.jpg",
+          "small_image_url": "https://img.youtube.com/vi/HoIOW6no_Ew/sddefault.jpg",
+          "medium_image_url": "https://img.youtube.com/vi/HoIOW6no_Ew/mqdefault.jpg",
+          "large_image_url": "https://img.youtube.com/vi/HoIOW6no_Ew/hqdefault.jpg",
+          "maximum_image_url": "https://img.youtube.com/vi/HoIOW6no_Ew/maxresdefault.jpg"
+        }
+      },
+      "approved": true,
+      "titles": [
+        {
+          "type": "Default",
+          "title": "Boku no Hero Academia 2nd Season"
+        },
+        {
+          "type": "Japanese",
+          "title": "僕のヒーローアカデミア"
+        },
+        {
+          "type": "English",
+          "title": "My Hero Academia Season 2"
+        },
+        {
+          "type": "German",
+          "title": "My Hero Academia – 2. Staffel"
+        },
+        {
+          "type": "Spanish",
+          "title": "My Hero Academia Temporada 2"
+        },
+        {
+          "type": "French",
+          "title": "My Hero Academia Saison 2"
+        }
+      ],
+      "title": "Boku no Hero Academia 2nd Season",
+      "title_english": "My Hero Academia Season 2",
+      "title_japanese": "僕のヒーローアカデミア",
+      "title_synonyms": [],
+      "type": "TV",
+      "source": "Manga",
+      "episodes": 25,
+      "status": "Finished Airing",
+      "airing": false,
+      "aired": {
+        "from": "2017-04-01T00:00:00+00:00",
+        "to": "2017-09-30T00:00:00+00:00",
+        "prop": {
+          "from": {
+            "day": 1,
+            "month": 4,
+            "year": 2017
+          },
+          "to": {
+            "day": 30,
+            "month": 9,
+            "year": 2017
+          }
+        },
+        "string": "Apr 1, 2017 to Sep 30, 2017"
+      },
+      "duration": "23 min per ep",
+      "rating": "PG-13 - Teens 13 or older",
+      "score": 8.07,
+      "scored_by": 1768420,
+      "rank": 550,
+      "popularity": 15,
+      "members": 2595731,
+      "favorites": 16925,
+      "synopsis": "At UA Academy, not even a violent attack can disrupt their most prestigious event: the school sports festival. Renowned across Japan, this festival is an opportunity for aspiring heroes to showcase their abilities, both to the public and potential recruiters. However, the path to glory is never easy, especially for Izuku Midoriya—whose quirk possesses great raw power but is also cripplingly inefficient. Pitted against his talented classmates, such as the fire and ice wielding Shouto Todoroki, Izuku must utilize his sharp wits and master his surroundings to achieve victory and prove to the world his worth. [Written by MAL Rewrite]",
+      "background": "",
+      "season": "spring",
+      "year": 2017,
+      "broadcast": {
+        "day": "Saturdays",
+        "time": "17:30",
+        "timezone": "Asia/Tokyo",
+        "string": "Saturdays at 17:30 (JST)"
+      },
+      "producers": [
+        {
+          "mal_id": 53,
+          "type": "anime",
+          "name": "Dentsu",
+          "url": "https://myanimelist.net/anime/producer/53/Dentsu"
+        },
+        {
+          "mal_id": 76,
+          "type": "anime",
+          "name": "Yomiuri Telecasting",
+          "url": "https://myanimelist.net/anime/producer/76/Yomiuri_Telecasting"
+        },
+        {
+          "mal_id": 166,
+          "type": "anime",
+          "name": "Movic",
+          "url": "https://myanimelist.net/anime/producer/166/Movic"
+        },
+        {
+          "mal_id": 757,
+          "type": "anime",
+          "name": "Sony Music Entertainment",
+          "url": "https://myanimelist.net/anime/producer/757/Sony_Music_Entertainment"
+        },
+        {
+          "mal_id": 1143,
+          "type": "anime",
+          "name": "TOHO animation",
+          "url": "https://myanimelist.net/anime/producer/1143/TOHO_animation"
+        },
+        {
+          "mal_id": 1365,
+          "type": "anime",
+          "name": "Shueisha",
+          "url": "https://myanimelist.net/anime/producer/1365/Shueisha"
+        }
+      ],
+      "licensors": [
+        {
+          "mal_id": 102,
+          "type": "anime",
+          "name": "Funimation",
+          "url": "https://myanimelist.net/anime/producer/102/Funimation"
+        }
+      ],
+      "studios": [
+        {
+          "mal_id": 4,
+          "type": "anime",
+          "name": "Bones",
+          "url": "https://myanimelist.net/anime/producer/4/Bones"
+        }
+      ],
+      "genres": [
+        {
+          "mal_id": 1,
+          "type": "anime",
+          "name": "Action",
+          "url": "https://myanimelist.net/anime/genre/1/Action"
+        }
+      ],
+      "explicit_genres": [],
+      "themes": [
+        {
+          "mal_id": 23,
+          "type": "anime",
+          "name": "School",
+          "url": "https://myanimelist.net/anime/genre/23/School"
+        },
+        {
+          "mal_id": 31,
+          "type": "anime",
+          "name": "Super Power",
+          "url": "https://myanimelist.net/anime/genre/31/Super_Power"
+        }
+      ],
+      "demographics": [
+        {
+          "mal_id": 27,
+          "type": "anime",
+          "name": "Shounen",
+          "url": "https://myanimelist.net/anime/genre/27/Shounen"
+        }
+      ]
+    },
+    {
+      "mal_id": 36456,
+      "url": "https://myanimelist.net/anime/36456/Boku_no_Hero_Academia_3rd_Season",
+      "images": {
+        "jpg": {
+          "image_url": "https://cdn.myanimelist.net/images/anime/1319/92084.jpg",
+          "small_image_url": "https://cdn.myanimelist.net/images/anime/1319/92084t.jpg",
+          "large_image_url": "https://cdn.myanimelist.net/images/anime/1319/92084l.jpg"
+        },
+        "webp": {
+          "image_url": "https://cdn.myanimelist.net/images/anime/1319/92084.webp",
+          "small_image_url": "https://cdn.myanimelist.net/images/anime/1319/92084t.webp",
+          "large_image_url": "https://cdn.myanimelist.net/images/anime/1319/92084l.webp"
+        }
+      },
+      "trailer": {
+        "youtube_id": "wMCeFIPwrHE",
+        "url": "https://www.youtube.com/watch?v=wMCeFIPwrHE",
+        "embed_url": "https://www.youtube.com/embed/wMCeFIPwrHE?enablejsapi=1&wmode=opaque&autoplay=1",
+        "images": {
+          "image_url": "https://img.youtube.com/vi/wMCeFIPwrHE/default.jpg",
+          "small_image_url": "https://img.youtube.com/vi/wMCeFIPwrHE/sddefault.jpg",
+          "medium_image_url": "https://img.youtube.com/vi/wMCeFIPwrHE/mqdefault.jpg",
+          "large_image_url": "https://img.youtube.com/vi/wMCeFIPwrHE/hqdefault.jpg",
+          "maximum_image_url": "https://img.youtube.com/vi/wMCeFIPwrHE/maxresdefault.jpg"
+        }
+      },
+      "approved": true,
+      "titles": [
+        {
+          "type": "Default",
+          "title": "Boku no Hero Academia 3rd Season"
+        },
+        {
+          "type": "Japanese",
+          "title": "僕のヒーローアカデミア"
+        },
+        {
+          "type": "English",
+          "title": "My Hero Academia Season 3"
+        },
+        {
+          "type": "German",
+          "title": "My Hero Academia 3. Staffel"
+        },
+        {
+          "type": "Spanish",
+          "title": "My Hero Academia Temporada 3"
+        },
+        {
+          "type": "French",
+          "title": "My Hero Academia Saison 3"
+        }
+      ],
+      "title": "Boku no Hero Academia 3rd Season",
+      "title_english": "My Hero Academia Season 3",
+      "title_japanese": "僕のヒーローアカデミア",
+      "title_synonyms": [],
+      "type": "TV",
+      "source": "Manga",
+      "episodes": 25,
+      "status": "Finished Airing",
+      "airing": false,
+      "aired": {
+        "from": "2018-04-07T00:00:00+00:00",
+        "to": "2018-09-29T00:00:00+00:00",
+        "prop": {
+          "from": {
+            "day": 7,
+            "month": 4,
+            "year": 2018
+          },
+          "to": {
+            "day": 29,
+            "month": 9,
+            "year": 2018
+          }
+        },
+        "string": "Apr 7, 2018 to Sep 29, 2018"
+      },
+      "duration": "23 min per ep",
+      "rating": "PG-13 - Teens 13 or older",
+      "score": 8,
+      "scored_by": 1481262,
+      "rank": 661,
+      "popularity": 26,
+      "members": 2255803,
+      "favorites": 12487,
+      "synopsis": "As summer arrives for the students at UA Academy, each of these superheroes-in-training puts in their best efforts to become renowned heroes. They head off to a forest training camp run by UA's pro heroes, where the students face one another in battle and go through dangerous tests, improving their abilities and pushing past their limits. However, their school trip is suddenly turned upside down when the League of Villains arrives, invading the camp with a mission to capture one of the students. Boku no Hero Academia 3rd Season follows Izuku Deku Midoriya, an ambitious student training to achieve his dream of becoming a hero similar to his role model—All Might. Being one of the students caught up amidst the chaos of the villain attack, Deku must take a stand with his classmates and fight for their survival. [Written by MAL Rewrite]",
+      "background": "",
+      "season": "spring",
+      "year": 2018,
+      "broadcast": {
+        "day": "Saturdays",
+        "time": "17:30",
+        "timezone": "Asia/Tokyo",
+        "string": "Saturdays at 17:30 (JST)"
+      },
+      "producers": [
+        {
+          "mal_id": 53,
+          "type": "anime",
+          "name": "Dentsu",
+          "url": "https://myanimelist.net/anime/producer/53/Dentsu"
+        },
+        {
+          "mal_id": 76,
+          "type": "anime",
+          "name": "Yomiuri Telecasting",
+          "url": "https://myanimelist.net/anime/producer/76/Yomiuri_Telecasting"
+        },
+        {
+          "mal_id": 166,
+          "type": "anime",
+          "name": "Movic",
+          "url": "https://myanimelist.net/anime/producer/166/Movic"
+        },
+        {
+          "mal_id": 757,
+          "type": "anime",
+          "name": "Sony Music Entertainment",
+          "url": "https://myanimelist.net/anime/producer/757/Sony_Music_Entertainment"
+        },
+        {
+          "mal_id": 1143,
+          "type": "anime",
+          "name": "TOHO animation",
+          "url": "https://myanimelist.net/anime/producer/1143/TOHO_animation"
+        },
+        {
+          "mal_id": 1365,
+          "type": "anime",
+          "name": "Shueisha",
+          "url": "https://myanimelist.net/anime/producer/1365/Shueisha"
+        }
+      ],
+      "licensors": [
+        {
+          "mal_id": 102,
+          "type": "anime",
+          "name": "Funimation",
+          "url": "https://myanimelist.net/anime/producer/102/Funimation"
+        }
+      ],
+      "studios": [
+        {
+          "mal_id": 4,
+          "type": "anime",
+          "name": "Bones",
+          "url": "https://myanimelist.net/anime/producer/4/Bones"
+        }
+      ],
+      "genres": [
+        {
+          "mal_id": 1,
+          "type": "anime",
+          "name": "Action",
+          "url": "https://myanimelist.net/anime/genre/1/Action"
+        }
+      ],
+      "explicit_genres": [],
+      "themes": [
+        {
+          "mal_id": 23,
+          "type": "anime",
+          "name": "School",
+          "url": "https://myanimelist.net/anime/genre/23/School"
+        },
+        {
+          "mal_id": 31,
+          "type": "anime",
+          "name": "Super Power",
+          "url": "https://myanimelist.net/anime/genre/31/Super_Power"
+        }
+      ],
+      "demographics": [
+        {
+          "mal_id": 27,
+          "type": "anime",
+          "name": "Shounen",
+          "url": "https://myanimelist.net/anime/genre/27/Shounen"
+        }
+      ]
+    },
+    {
+      "mal_id": 38408,
+      "url": "https://myanimelist.net/anime/38408/Boku_no_Hero_Academia_4th_Season",
+      "images": {
+        "jpg": {
+          "image_url": "https://cdn.myanimelist.net/images/anime/1412/107914.jpg",
+          "small_image_url": "https://cdn.myanimelist.net/images/anime/1412/107914t.jpg",
+          "large_image_url": "https://cdn.myanimelist.net/images/anime/1412/107914l.jpg"
+        },
+        "webp": {
+          "image_url": "https://cdn.myanimelist.net/images/anime/1412/107914.webp",
+          "small_image_url": "https://cdn.myanimelist.net/images/anime/1412/107914t.webp",
+          "large_image_url": "https://cdn.myanimelist.net/images/anime/1412/107914l.webp"
+        }
+      },
+      "trailer": {
+        "youtube_id": "5VQwDC5jqzQ",
+        "url": "https://www.youtube.com/watch?v=5VQwDC5jqzQ",
+        "embed_url": "https://www.youtube.com/embed/5VQwDC5jqzQ?enablejsapi=1&wmode=opaque&autoplay=1",
+        "images": {
+          "image_url": "https://img.youtube.com/vi/5VQwDC5jqzQ/default.jpg",
+          "small_image_url": "https://img.youtube.com/vi/5VQwDC5jqzQ/sddefault.jpg",
+          "medium_image_url": "https://img.youtube.com/vi/5VQwDC5jqzQ/mqdefault.jpg",
+          "large_image_url": "https://img.youtube.com/vi/5VQwDC5jqzQ/hqdefault.jpg",
+          "maximum_image_url": "https://img.youtube.com/vi/5VQwDC5jqzQ/maxresdefault.jpg"
+        }
+      },
+      "approved": true,
+      "titles": [
+        {
+          "type": "Default",
+          "title": "Boku no Hero Academia 4th Season"
+        },
+        {
+          "type": "Japanese",
+          "title": "僕のヒーローアカデミア"
+        },
+        {
+          "type": "English",
+          "title": "My Hero Academia Season 4"
+        },
+        {
+          "type": "German",
+          "title": "My Hero Academia Staffel 4"
+        },
+        {
+          "type": "Spanish",
+          "title": "My Hero Academia Temporada 4"
+        },
+        {
+          "type": "French",
+          "title": "My Hero Academia Saison 4"
+        }
+      ],
+      "title": "Boku no Hero Academia 4th Season",
+      "title_english": "My Hero Academia Season 4",
+      "title_japanese": "僕のヒーローアカデミア",
+      "title_synonyms": [],
+      "type": "TV",
+      "source": "Manga",
+      "episodes": 25,
+      "status": "Finished Airing",
+      "airing": false,
+      "aired": {
+        "from": "2019-10-12T00:00:00+00:00",
+        "to": "2020-04-04T00:00:00+00:00",
+        "prop": {
+          "from": {
+            "day": 12,
+            "month": 10,
+            "year": 2019
+          },
+          "to": {
+            "day": 4,
+            "month": 4,
+            "year": 2020
+          }
+        },
+        "string": "Oct 12, 2019 to Apr 4, 2020"
+      },
+      "duration": "24 min per ep",
+      "rating": "PG-13 - Teens 13 or older",
+      "score": 7.87,
+      "scored_by": 1118793,
+      "rank": 879,
+      "popularity": 53,
+      "members": 1790909,
+      "favorites": 8151,
+      "synopsis": "After successfully passing his Provisional Hero License exam, Izuku Deku Midoriya seeks out an extracurricular internship with a professional hero agency. At the recommendation of his mentor All Might, Midoriya lands a position under All Might's former sidekick, Sir Nighteye, now a famous hero in his own right. As Midoriya's classmates further their own abilities through various internships, up-and-coming villain Kai Chisaki utilizes his terrifying powers to gather favor in the criminal underworld. Known by the moniker Overhaul, Chisaki's ambitions collide with the League of Villains and its leader, Tomura Shigaraki. Through his work with Sir Nighteye, Midoriya discovers Chisaki's crime syndicate and the villain's hostile relationship with a mysterious young girl named Eri. Fearing for the child's safety, Midoriya and his upperclassman Mirio Toogata must work together to put an end to Chisaki's reign of terror. [Written by MAL Rewrite]",
+      "background": "",
+      "season": "fall",
+      "year": 2019,
+      "broadcast": {
+        "day": "Saturdays",
+        "time": "17:30",
+        "timezone": "Asia/Tokyo",
+        "string": "Saturdays at 17:30 (JST)"
+      },
+      "producers": [
+        {
+          "mal_id": 53,
+          "type": "anime",
+          "name": "Dentsu",
+          "url": "https://myanimelist.net/anime/producer/53/Dentsu"
+        },
+        {
+          "mal_id": 76,
+          "type": "anime",
+          "name": "Yomiuri Telecasting",
+          "url": "https://myanimelist.net/anime/producer/76/Yomiuri_Telecasting"
+        },
+        {
+          "mal_id": 166,
+          "type": "anime",
+          "name": "Movic",
+          "url": "https://myanimelist.net/anime/producer/166/Movic"
+        },
+        {
+          "mal_id": 757,
+          "type": "anime",
+          "name": "Sony Music Entertainment",
+          "url": "https://myanimelist.net/anime/producer/757/Sony_Music_Entertainment"
+        },
+        {
+          "mal_id": 1143,
+          "type": "anime",
+          "name": "TOHO animation",
+          "url": "https://myanimelist.net/anime/producer/1143/TOHO_animation"
+        },
+        {
+          "mal_id": 1365,
+          "type": "anime",
+          "name": "Shueisha",
+          "url": "https://myanimelist.net/anime/producer/1365/Shueisha"
+        }
+      ],
+      "licensors": [
+        {
+          "mal_id": 102,
+          "type": "anime",
+          "name": "Funimation",
+          "url": "https://myanimelist.net/anime/producer/102/Funimation"
+        }
+      ],
+      "studios": [
+        {
+          "mal_id": 4,
+          "type": "anime",
+          "name": "Bones",
+          "url": "https://myanimelist.net/anime/producer/4/Bones"
+        }
+      ],
+      "genres": [
+        {
+          "mal_id": 1,
+          "type": "anime",
+          "name": "Action",
+          "url": "https://myanimelist.net/anime/genre/1/Action"
+        }
+      ],
+      "explicit_genres": [],
+      "themes": [
+        {
+          "mal_id": 23,
+          "type": "anime",
+          "name": "School",
+          "url": "https://myanimelist.net/anime/genre/23/School"
+        },
+        {
+          "mal_id": 31,
+          "type": "anime",
+          "name": "Super Power",
+          "url": "https://myanimelist.net/anime/genre/31/Super_Power"
+        }
+      ],
+      "demographics": [
+        {
+          "mal_id": 27,
+          "type": "anime",
+          "name": "Shounen",
+          "url": "https://myanimelist.net/anime/genre/27/Shounen"
+        }
+      ]
+    },
+    {
+      "mal_id": 41587,
+      "url": "https://myanimelist.net/anime/41587/Boku_no_Hero_Academia_5th_Season",
+      "images": {
+        "jpg": {
+          "image_url": "https://cdn.myanimelist.net/images/anime/1911/113611.jpg",
+          "small_image_url": "https://cdn.myanimelist.net/images/anime/1911/113611t.jpg",
+          "large_image_url": "https://cdn.myanimelist.net/images/anime/1911/113611l.jpg"
+        },
+        "webp": {
+          "image_url": "https://cdn.myanimelist.net/images/anime/1911/113611.webp",
+          "small_image_url": "https://cdn.myanimelist.net/images/anime/1911/113611t.webp",
+          "large_image_url": "https://cdn.myanimelist.net/images/anime/1911/113611l.webp"
+        }
+      },
+      "trailer": {
+        "youtube_id": "kkmW-tppFPM",
+        "url": "https://www.youtube.com/watch?v=kkmW-tppFPM",
+        "embed_url": "https://www.youtube.com/embed/kkmW-tppFPM?enablejsapi=1&wmode=opaque&autoplay=1",
+        "images": {
+          "image_url": "https://img.youtube.com/vi/kkmW-tppFPM/default.jpg",
+          "small_image_url": "https://img.youtube.com/vi/kkmW-tppFPM/sddefault.jpg",
+          "medium_image_url": "https://img.youtube.com/vi/kkmW-tppFPM/mqdefault.jpg",
+          "large_image_url": "https://img.youtube.com/vi/kkmW-tppFPM/hqdefault.jpg",
+          "maximum_image_url": "https://img.youtube.com/vi/kkmW-tppFPM/maxresdefault.jpg"
+        }
+      },
+      "approved": true,
+      "titles": [
+        {
+          "type": "Default",
+          "title": "Boku no Hero Academia 5th Season"
+        },
+        {
+          "type": "Synonym",
+          "title": "My Hero Academia 5"
+        },
+        {
+          "type": "Japanese",
+          "title": "僕のヒーローアカデミア"
+        },
+        {
+          "type": "English",
+          "title": "My Hero Academia Season 5"
+        },
+        {
+          "type": "German",
+          "title": "My Hero Academia Staffel 5"
+        },
+        {
+          "type": "Spanish",
+          "title": "My Hero Academia Temporada 5"
+        },
+        {
+          "type": "French",
+          "title": "My Hero Academia Saison 5"
+        }
+      ],
+      "title": "Boku no Hero Academia 5th Season",
+      "title_english": "My Hero Academia Season 5",
+      "title_japanese": "僕のヒーローアカデミア",
+      "title_synonyms": [
+        "My Hero Academia 5"
+      ],
+      "type": "TV",
+      "source": "Manga",
+      "episodes": 25,
+      "status": "Finished Airing",
+      "airing": false,
+      "aired": {
+        "from": "2021-03-27T00:00:00+00:00",
+        "to": "2021-09-25T00:00:00+00:00",
+        "prop": {
+          "from": {
+            "day": 27,
+            "month": 3,
+            "year": 2021
+          },
+          "to": {
+            "day": 25,
+            "month": 9,
+            "year": 2021
+          }
+        },
+        "string": "Mar 27, 2021 to Sep 25, 2021"
+      },
+      "duration": "23 min per ep",
+      "rating": "PG-13 - Teens 13 or older",
+      "score": 7.36,
+      "scored_by": 640172,
+      "rank": 2514,
+      "popularity": 116,
+      "members": 1247495,
+      "favorites": 10211,
+      "synopsis": "UA Academy's Class 1-A has been the focus of a substantial amount of public attention due to the multiple villain attacks they have faced over the past school year. This attention has left Class 1-A's rivals, Class 1-B, feeling quite bitter. Desiring to prove their skills, they look forward to the opportunity that has been given to them: a set of mock battles between the students of each class. The classes are split into squads of four, each of which is tasked with capturing the other group members. The winner is the group who first secures all of the opposing team. While this sounds simple, a curveball is thrown into the mix with the inclusion of General Course Student Hitoshi Shinsou, who wishes to transfer into the Hero Course. Despite using his training with Class 1-A's homeroom teacher Shouta Eraserhead Aizawa to prove that he's capable of being a real hero, he is still far behind the others due to his lack of experience. However, Shinsou is determined to overcome this challenge. Thus begins the fiery competition between Class 1-A and 1-B as each tries to prove that they are superior to the other. [Written by MAL Rewrite]",
+      "background": "",
+      "season": "spring",
+      "year": 2021,
+      "broadcast": {
+        "day": "Saturdays",
+        "time": "17:30",
+        "timezone": "Asia/Tokyo",
+        "string": "Saturdays at 17:30 (JST)"
+      },
+      "producers": [
+        {
+          "mal_id": 53,
+          "type": "anime",
+          "name": "Dentsu",
+          "url": "https://myanimelist.net/anime/producer/53/Dentsu"
+        },
+        {
+          "mal_id": 166,
+          "type": "anime",
+          "name": "Movic",
+          "url": "https://myanimelist.net/anime/producer/166/Movic"
+        },
+        {
+          "mal_id": 757,
+          "type": "anime",
+          "name": "Sony Music Entertainment",
+          "url": "https://myanimelist.net/anime/producer/757/Sony_Music_Entertainment"
+        },
+        {
+          "mal_id": 1143,
+          "type": "anime",
+          "name": "TOHO animation",
+          "url": "https://myanimelist.net/anime/producer/1143/TOHO_animation"
+        },
+        {
+          "mal_id": 1365,
+          "type": "anime",
+          "name": "Shueisha",
+          "url": "https://myanimelist.net/anime/producer/1365/Shueisha"
+        }
+      ],
+      "licensors": [
+        {
+          "mal_id": 102,
+          "type": "anime",
+          "name": "Funimation",
+          "url": "https://myanimelist.net/anime/producer/102/Funimation"
+        }
+      ],
+      "studios": [
+        {
+          "mal_id": 4,
+          "type": "anime",
+          "name": "Bones",
+          "url": "https://myanimelist.net/anime/producer/4/Bones"
+        }
+      ],
+      "genres": [
+        {
+          "mal_id": 1,
+          "type": "anime",
+          "name": "Action",
+          "url": "https://myanimelist.net/anime/genre/1/Action"
+        }
+      ],
+      "explicit_genres": [],
+      "themes": [
+        {
+          "mal_id": 23,
+          "type": "anime",
+          "name": "School",
+          "url": "https://myanimelist.net/anime/genre/23/School"
+        },
+        {
+          "mal_id": 31,
+          "type": "anime",
+          "name": "Super Power",
+          "url": "https://myanimelist.net/anime/genre/31/Super_Power"
+        }
+      ],
+      "demographics": [
+        {
+          "mal_id": 27,
+          "type": "anime",
+          "name": "Shounen",
+          "url": "https://myanimelist.net/anime/genre/27/Shounen"
+        }
+      ]
+    },
+    {
+      "mal_id": 36896,
+      "url": "https://myanimelist.net/anime/36896/Boku_no_Hero_Academia_the_Movie_1__Futari_no_Hero",
+      "images": {
+        "jpg": {
+          "image_url": "https://cdn.myanimelist.net/images/anime/1736/93138.jpg",
+          "small_image_url": "https://cdn.myanimelist.net/images/anime/1736/93138t.jpg",
+          "large_image_url": "https://cdn.myanimelist.net/images/anime/1736/93138l.jpg"
+        },
+        "webp": {
+          "image_url": "https://cdn.myanimelist.net/images/anime/1736/93138.webp",
+          "small_image_url": "https://cdn.myanimelist.net/images/anime/1736/93138t.webp",
+          "large_image_url": "https://cdn.myanimelist.net/images/anime/1736/93138l.webp"
+        }
+      },
+      "trailer": {
+        "youtube_id": "DqL1EsorFy4",
+        "url": "https://www.youtube.com/watch?v=DqL1EsorFy4",
+        "embed_url": "https://www.youtube.com/embed/DqL1EsorFy4?enablejsapi=1&wmode=opaque&autoplay=1",
+        "images": {
+          "image_url": "https://img.youtube.com/vi/DqL1EsorFy4/default.jpg",
+          "small_image_url": "https://img.youtube.com/vi/DqL1EsorFy4/sddefault.jpg",
+          "medium_image_url": "https://img.youtube.com/vi/DqL1EsorFy4/mqdefault.jpg",
+          "large_image_url": "https://img.youtube.com/vi/DqL1EsorFy4/hqdefault.jpg",
+          "maximum_image_url": "https://img.youtube.com/vi/DqL1EsorFy4/maxresdefault.jpg"
+        }
+      },
+      "approved": true,
+      "titles": [
+        {
+          "type": "Default",
+          "title": "Boku no Hero Academia the Movie 1: Futari no Hero"
+        },
+        {
+          "type": "Synonym",
+          "title": "My Hero Academia the Movie: The Two Heroes"
+        },
+        {
+          "type": "Japanese",
+          "title": "僕のヒーローアカデミア THE MOVIE ～2人の英雄（ヒーロー）～"
+        },
+        {
+          "type": "English",
+          "title": "My Hero Academia: Two Heroes"
+        },
+        {
+          "type": "German",
+          "title": "My Hero Academia: Two Heroes"
+        },
+        {
+          "type": "Spanish",
+          "title": "My Hero Academia la Película: Dos Héroes."
+        },
+        {
+          "type": "French",
+          "title": "My Hero Academia: Two Heroes"
+        }
+      ],
+      "title": "Boku no Hero Academia the Movie 1: Futari no Hero",
+      "title_english": "My Hero Academia: Two Heroes",
+      "title_japanese": "僕のヒーローアカデミア THE MOVIE ～2人の英雄（ヒーロー）～",
+      "title_synonyms": [
+        "My Hero Academia the Movie: The Two Heroes"
+      ],
+      "type": "Movie",
+      "source": "Manga",
+      "episodes": 1,
+      "status": "Finished Airing",
+      "airing": false,
+      "aired": {
+        "from": "2018-08-03T00:00:00+00:00",
+        "to": null,
+        "prop": {
+          "from": {
+            "day": 3,
+            "month": 8,
+            "year": 2018
+          },
+          "to": {
+            "day": null,
+            "month": null,
+            "year": null
+          }
+        },
+        "string": "Aug 3, 2018"
+      },
+      "duration": "1 hr 36 min",
+      "rating": "PG-13 - Teens 13 or older",
+      "score": 7.53,
+      "scored_by": 475534,
+      "rank": 1804,
+      "popularity": 267,
+      "members": 773838,
+      "favorites": 1418,
+      "synopsis": "U.A. High School's students of Class 1-A have made it to summer break. Izuku Midoriya accompanies his mentor All Might to a celebratory superhero festival on I-Island, an isolated patch of land dedicated to researching Quirks and everything else associated with the hero business. Midoriya is granted the opportunity to meet All Might's friend Dave and Dave's daughter Melissa, two talented hero equipment engineers. He also encounters his classmates, most of whom have been given the opportunity to spend part of their summer break at the festival. However, a mysterious squad of villains infiltrates I-Island, and it is up to Midoriya and his friends to confront them, using their developing Quirks to fight off the new enemy and uncover a treacherous plot. [Written by MAL Rewrite]",
+      "background": "",
+      "season": null,
+      "year": null,
+      "broadcast": {
+        "day": null,
+        "time": null,
+        "timezone": null,
+        "string": null
+      },
+      "producers": [
+        {
+          "mal_id": 1143,
+          "type": "anime",
+          "name": "TOHO animation",
+          "url": "https://myanimelist.net/anime/producer/1143/TOHO_animation"
+        },
+        {
+          "mal_id": 1365,
+          "type": "anime",
+          "name": "Shueisha",
+          "url": "https://myanimelist.net/anime/producer/1365/Shueisha"
+        },
+        {
+          "mal_id": 2229,
+          "type": "anime",
+          "name": "Toho Music",
+          "url": "https://myanimelist.net/anime/producer/2229/Toho_Music"
+        }
+      ],
+      "licensors": [
+        {
+          "mal_id": 102,
+          "type": "anime",
+          "name": "Funimation",
+          "url": "https://myanimelist.net/anime/producer/102/Funimation"
+        }
+      ],
+      "studios": [
+        {
+          "mal_id": 4,
+          "type": "anime",
+          "name": "Bones",
+          "url": "https://myanimelist.net/anime/producer/4/Bones"
+        }
+      ],
+      "genres": [
+        {
+          "mal_id": 1,
+          "type": "anime",
+          "name": "Action",
+          "url": "https://myanimelist.net/anime/genre/1/Action"
+        }
+      ],
+      "explicit_genres": [],
+      "themes": [
+        {
+          "mal_id": 31,
+          "type": "anime",
+          "name": "Super Power",
+          "url": "https://myanimelist.net/anime/genre/31/Super_Power"
+        }
+      ],
+      "demographics": [
+        {
+          "mal_id": 27,
+          "type": "anime",
+          "name": "Shounen",
+          "url": "https://myanimelist.net/anime/genre/27/Shounen"
+        }
+      ]
+    },
+    {
+      "mal_id": 49918,
+      "url": "https://myanimelist.net/anime/49918/Boku_no_Hero_Academia_6th_Season",
+      "images": {
+        "jpg": {
+          "image_url": "https://cdn.myanimelist.net/images/anime/1483/126005.jpg",
+          "small_image_url": "https://cdn.myanimelist.net/images/anime/1483/126005t.jpg",
+          "large_image_url": "https://cdn.myanimelist.net/images/anime/1483/126005l.jpg"
+        },
+        "webp": {
+          "image_url": "https://cdn.myanimelist.net/images/anime/1483/126005.webp",
+          "small_image_url": "https://cdn.myanimelist.net/images/anime/1483/126005t.webp",
+          "large_image_url": "https://cdn.myanimelist.net/images/anime/1483/126005l.webp"
+        }
+      },
+      "trailer": {
+        "youtube_id": "nTWeiY3yZRs",
+        "url": "https://www.youtube.com/watch?v=nTWeiY3yZRs",
+        "embed_url": "https://www.youtube.com/embed/nTWeiY3yZRs?enablejsapi=1&wmode=opaque&autoplay=1",
+        "images": {
+          "image_url": "https://img.youtube.com/vi/nTWeiY3yZRs/default.jpg",
+          "small_image_url": "https://img.youtube.com/vi/nTWeiY3yZRs/sddefault.jpg",
+          "medium_image_url": "https://img.youtube.com/vi/nTWeiY3yZRs/mqdefault.jpg",
+          "large_image_url": "https://img.youtube.com/vi/nTWeiY3yZRs/hqdefault.jpg",
+          "maximum_image_url": "https://img.youtube.com/vi/nTWeiY3yZRs/maxresdefault.jpg"
+        }
+      },
+      "approved": true,
+      "titles": [
+        {
+          "type": "Default",
+          "title": "Boku no Hero Academia 6th Season"
+        },
+        {
+          "type": "Synonym",
+          "title": "My Hero Academia 6"
+        },
+        {
+          "type": "Japanese",
+          "title": "僕のヒーローアカデミア"
+        },
+        {
+          "type": "English",
+          "title": "My Hero Academia Season 6"
+        }
+      ],
+      "title": "Boku no Hero Academia 6th Season",
+      "title_english": "My Hero Academia Season 6",
+      "title_japanese": "僕のヒーローアカデミア",
+      "title_synonyms": [
+        "My Hero Academia 6"
+      ],
+      "type": "TV",
+      "source": "Manga",
+      "episodes": 25,
+      "status": "Finished Airing",
+      "airing": false,
+      "aired": {
+        "from": "2022-10-01T00:00:00+00:00",
+        "to": "2023-03-25T00:00:00+00:00",
+        "prop": {
+          "from": {
+            "day": 1,
+            "month": 10,
+            "year": 2022
+          },
+          "to": {
+            "day": 25,
+            "month": 3,
+            "year": 2023
+          }
+        },
+        "string": "Oct 1, 2022 to Mar 25, 2023"
+      },
+      "duration": "23 min per ep",
+      "rating": "PG-13 - Teens 13 or older",
+      "score": 8.25,
+      "scored_by": 350118,
+      "rank": 323,
+      "popularity": 296,
+      "members": 710968,
+      "favorites": 7268,
+      "synopsis": "With Tomura Shigaraki at its helm, the former Liberation Army is now known as the Paranormal Liberation Front. This organized criminal group poses an immense threat to the Hero Association, not only because of its sheer size and strength, but also the overpowering quirks of Jin Twice Bubaigawara and Gigantomachia. As new intel from the covert hero Keigo Hawks Takami confirms that Shigaraki is nowhere to be seen, the Hero Association decides to strike the enemy headquarters with a surprise attack using the entirety of its assets—and the UA students find themselves on the battlefield once again. As the fight rages on, the unsuspecting villains must regroup and push back, but the brave heroes are determined to eradicate every last one of them. [Written by MAL Rewrite]",
+      "background": "Boku no Hero Academia 6th Season adapts chapters 258-328 of the manga.",
+      "season": "fall",
+      "year": 2022,
+      "broadcast": {
+        "day": "Saturdays",
+        "time": "17:30",
+        "timezone": "Asia/Tokyo",
+        "string": "Saturdays at 17:30 (JST)"
+      },
+      "producers": [
+        {
+          "mal_id": 53,
+          "type": "anime",
+          "name": "Dentsu",
+          "url": "https://myanimelist.net/anime/producer/53/Dentsu"
+        },
+        {
+          "mal_id": 76,
+          "type": "anime",
+          "name": "Yomiuri Telecasting",
+          "url": "https://myanimelist.net/anime/producer/76/Yomiuri_Telecasting"
+        },
+        {
+          "mal_id": 166,
+          "type": "anime",
+          "name": "Movic",
+          "url": "https://myanimelist.net/anime/producer/166/Movic"
+        },
+        {
+          "mal_id": 757,
+          "type": "anime",
+          "name": "Sony Music Entertainment",
+          "url": "https://myanimelist.net/anime/producer/757/Sony_Music_Entertainment"
+        },
+        {
+          "mal_id": 1143,
+          "type": "anime",
+          "name": "TOHO animation",
+          "url": "https://myanimelist.net/anime/producer/1143/TOHO_animation"
+        },
+        {
+          "mal_id": 1365,
+          "type": "anime",
+          "name": "Shueisha",
+          "url": "https://myanimelist.net/anime/producer/1365/Shueisha"
+        }
+      ],
+      "licensors": [],
+      "studios": [
+        {
+          "mal_id": 4,
+          "type": "anime",
+          "name": "Bones",
+          "url": "https://myanimelist.net/anime/producer/4/Bones"
+        }
+      ],
+      "genres": [
+        {
+          "mal_id": 1,
+          "type": "anime",
+          "name": "Action",
+          "url": "https://myanimelist.net/anime/genre/1/Action"
+        }
+      ],
+      "explicit_genres": [],
+      "themes": [
+        {
+          "mal_id": 23,
+          "type": "anime",
+          "name": "School",
+          "url": "https://myanimelist.net/anime/genre/23/School"
+        },
+        {
+          "mal_id": 31,
+          "type": "anime",
+          "name": "Super Power",
+          "url": "https://myanimelist.net/anime/genre/31/Super_Power"
+        }
+      ],
+      "demographics": [
+        {
+          "mal_id": 27,
+          "type": "anime",
+          "name": "Shounen",
+          "url": "https://myanimelist.net/anime/genre/27/Shounen"
+        }
+      ]
+    },
+    {
+      "mal_id": 39565,
+      "url": "https://myanimelist.net/anime/39565/Boku_no_Hero_Academia_the_Movie_2__Heroes_Rising",
+      "images": {
+        "jpg": {
+          "image_url": "https://cdn.myanimelist.net/images/anime/1019/103292.jpg",
+          "small_image_url": "https://cdn.myanimelist.net/images/anime/1019/103292t.jpg",
+          "large_image_url": "https://cdn.myanimelist.net/images/anime/1019/103292l.jpg"
+        },
+        "webp": {
+          "image_url": "https://cdn.myanimelist.net/images/anime/1019/103292.webp",
+          "small_image_url": "https://cdn.myanimelist.net/images/anime/1019/103292t.webp",
+          "large_image_url": "https://cdn.myanimelist.net/images/anime/1019/103292l.webp"
+        }
+      },
+      "trailer": {
+        "youtube_id": "vikPO-GgNBM",
+        "url": "https://www.youtube.com/watch?v=vikPO-GgNBM",
+        "embed_url": "https://www.youtube.com/embed/vikPO-GgNBM?enablejsapi=1&wmode=opaque&autoplay=1",
+        "images": {
+          "image_url": "https://img.youtube.com/vi/vikPO-GgNBM/default.jpg",
+          "small_image_url": "https://img.youtube.com/vi/vikPO-GgNBM/sddefault.jpg",
+          "medium_image_url": "https://img.youtube.com/vi/vikPO-GgNBM/mqdefault.jpg",
+          "large_image_url": "https://img.youtube.com/vi/vikPO-GgNBM/hqdefault.jpg",
+          "maximum_image_url": "https://img.youtube.com/vi/vikPO-GgNBM/maxresdefault.jpg"
+        }
+      },
+      "approved": true,
+      "titles": [
+        {
+          "type": "Default",
+          "title": "Boku no Hero Academia the Movie 2: Heroes:Rising"
+        },
+        {
+          "type": "Synonym",
+          "title": "My Hero Academia the Movie 2: Heroes:Rising"
+        },
+        {
+          "type": "Japanese",
+          "title": "僕のヒーローアカデミア THE MOVIE　ヒーローズ：ライジング"
+        },
+        {
+          "type": "English",
+          "title": "My Hero Academia: Heroes Rising"
+        },
+        {
+          "type": "German",
+          "title": "My Hero Academia: Heroes Rising"
+        },
+        {
+          "type": "Spanish",
+          "title": "My Hero Academia: El Despertar de los Héroes"
+        },
+        {
+          "type": "French",
+          "title": "My Hero Academia: Heroes Rising"
+        }
+      ],
+      "title": "Boku no Hero Academia the Movie 2: Heroes:Rising",
+      "title_english": "My Hero Academia: Heroes Rising",
+      "title_japanese": "僕のヒーローアカデミア THE MOVIE　ヒーローズ：ライジング",
+      "title_synonyms": [
+        "My Hero Academia the Movie 2: Heroes:Rising"
+      ],
+      "type": "Movie",
+      "source": "Manga",
+      "episodes": 1,
+      "status": "Finished Airing",
+      "airing": false,
+      "aired": {
+        "from": "2019-12-20T00:00:00+00:00",
+        "to": null,
+        "prop": {
+          "from": {
+            "day": 20,
+            "month": 12,
+            "year": 2019
+          },
+          "to": {
+            "day": null,
+            "month": null,
+            "year": null
+          }
+        },
+        "string": "Dec 20, 2019"
+      },
+      "duration": "1 hr 44 min",
+      "rating": "PG-13 - Teens 13 or older",
+      "score": 7.94,
+      "scored_by": 347565,
+      "rank": 739,
+      "popularity": 386,
+      "members": 593703,
+      "favorites": 1824,
+      "synopsis": "Izuku Deku Midoriya and his fellow students in Class 1-A of UA High's hero course have been chosen to participate in a safety program on Nabu Island. To further improve their skills and gain experience in more ordinary heroics, the students aid the kind citizens with small services and everyday chores. With the low crime rate in the quiet community, all seems well and good, but the rise of a new villain threatens to put the students' courage to the test and challenge their capabilities as heroes. A merciless villain by the name of Nine is in search of a certain quirk needed to fulfill his diabolical plan—creating a society where only those with the strongest quirks reign supreme. As his attack on Nabu Island endangers the lives of the residents, securing the citizens becomes the first priority for Class 1-A; defeating Nine along with his wicked accomplices is also imperative. A straightforward strategy is formulated until a young boy named Katsuma Shimano, whom Deku had befriended, suddenly requires particular protection. Concerned for the boy's wellbeing, Deku and his classmates must now devise a plan to ensure Katsuma's safety at all costs. With Nine wreaking havoc to find the catalyst for his ill-intended schemes and the heroes desperate to defend Katsuma from harm, will Deku and his friends be able to come out victorious, or will they find themselves unable to escape a hopeless situation? [Written by MAL Rewrite]",
+      "background": "",
+      "season": null,
+      "year": null,
+      "broadcast": {
+        "day": null,
+        "time": null,
+        "timezone": null,
+        "string": null
+      },
+      "producers": [
+        {
+          "mal_id": 53,
+          "type": "anime",
+          "name": "Dentsu",
+          "url": "https://myanimelist.net/anime/producer/53/Dentsu"
+        },
+        {
+          "mal_id": 76,
+          "type": "anime",
+          "name": "Yomiuri Telecasting",
+          "url": "https://myanimelist.net/anime/producer/76/Yomiuri_Telecasting"
+        },
+        {
+          "mal_id": 166,
+          "type": "anime",
+          "name": "Movic",
+          "url": "https://myanimelist.net/anime/producer/166/Movic"
+        },
+        {
+          "mal_id": 245,
+          "type": "anime",
+          "name": "TOHO",
+          "url": "https://myanimelist.net/anime/producer/245/TOHO"
+        },
+        {
+          "mal_id": 757,
+          "type": "anime",
+          "name": "Sony Music Entertainment",
+          "url": "https://myanimelist.net/anime/producer/757/Sony_Music_Entertainment"
+        },
+        {
+          "mal_id": 1003,
+          "type": "anime",
+          "name": "Nippon Television Network",
+          "url": "https://myanimelist.net/anime/producer/1003/Nippon_Television_Network"
+        },
+        {
+          "mal_id": 1365,
+          "type": "anime",
+          "name": "Shueisha",
+          "url": "https://myanimelist.net/anime/producer/1365/Shueisha"
+        },
+        {
+          "mal_id": 2229,
+          "type": "anime",
+          "name": "Toho Music",
+          "url": "https://myanimelist.net/anime/producer/2229/Toho_Music"
+        }
+      ],
+      "licensors": [
+        {
+          "mal_id": 102,
+          "type": "anime",
+          "name": "Funimation",
+          "url": "https://myanimelist.net/anime/producer/102/Funimation"
+        }
+      ],
+      "studios": [
+        {
+          "mal_id": 4,
+          "type": "anime",
+          "name": "Bones",
+          "url": "https://myanimelist.net/anime/producer/4/Bones"
+        }
+      ],
+      "genres": [
+        {
+          "mal_id": 1,
+          "type": "anime",
+          "name": "Action",
+          "url": "https://myanimelist.net/anime/genre/1/Action"
+        }
+      ],
+      "explicit_genres": [],
+      "themes": [
+        {
+          "mal_id": 31,
+          "type": "anime",
+          "name": "Super Power",
+          "url": "https://myanimelist.net/anime/genre/31/Super_Power"
+        }
+      ],
+      "demographics": [
+        {
+          "mal_id": 27,
+          "type": "anime",
+          "name": "Shounen",
+          "url": "https://myanimelist.net/anime/genre/27/Shounen"
+        }
+      ]
+    },
+    {
+      "mal_id": 44200,
+      "url": "https://myanimelist.net/anime/44200/Boku_no_Hero_Academia_the_Movie_3__World_Heroes_Mission",
+      "images": {
+        "jpg": {
+          "image_url": "https://cdn.myanimelist.net/images/anime/1049/115605.jpg",
+          "small_image_url": "https://cdn.myanimelist.net/images/anime/1049/115605t.jpg",
+          "large_image_url": "https://cdn.myanimelist.net/images/anime/1049/115605l.jpg"
+        },
+        "webp": {
+          "image_url": "https://cdn.myanimelist.net/images/anime/1049/115605.webp",
+          "small_image_url": "https://cdn.myanimelist.net/images/anime/1049/115605t.webp",
+          "large_image_url": "https://cdn.myanimelist.net/images/anime/1049/115605l.webp"
+        }
+      },
+      "trailer": {
+        "youtube_id": "ohR_gEvQIRk",
+        "url": "https://www.youtube.com/watch?v=ohR_gEvQIRk",
+        "embed_url": "https://www.youtube.com/embed/ohR_gEvQIRk?enablejsapi=1&wmode=opaque&autoplay=1",
+        "images": {
+          "image_url": "https://img.youtube.com/vi/ohR_gEvQIRk/default.jpg",
+          "small_image_url": "https://img.youtube.com/vi/ohR_gEvQIRk/sddefault.jpg",
+          "medium_image_url": "https://img.youtube.com/vi/ohR_gEvQIRk/mqdefault.jpg",
+          "large_image_url": "https://img.youtube.com/vi/ohR_gEvQIRk/hqdefault.jpg",
+          "maximum_image_url": "https://img.youtube.com/vi/ohR_gEvQIRk/maxresdefault.jpg"
+        }
+      },
+      "approved": true,
+      "titles": [
+        {
+          "type": "Default",
+          "title": "Boku no Hero Academia the Movie 3: World Heroes' Mission"
+        },
+        {
+          "type": "Synonym",
+          "title": "My Hero Academia the Movie 3"
+        },
+        {
+          "type": "Japanese",
+          "title": "僕のヒーローアカデミア THE MOVIE ワールド ヒーローズ ミッション"
+        },
+        {
+          "type": "English",
+          "title": "My Hero Academia: World Heroes' Mission"
+        }
+      ],
+      "title": "Boku no Hero Academia the Movie 3: World Heroes' Mission",
+      "title_english": "My Hero Academia: World Heroes' Mission",
+      "title_japanese": "僕のヒーローアカデミア THE MOVIE ワールド ヒーローズ ミッション",
+      "title_synonyms": [
+        "My Hero Academia the Movie 3"
+      ],
+      "type": "Movie",
+      "source": "Manga",
+      "episodes": 1,
+      "status": "Finished Airing",
+      "airing": false,
+      "aired": {
+        "from": "2021-08-06T00:00:00+00:00",
+        "to": null,
+        "prop": {
+          "from": {
+            "day": 6,
+            "month": 8,
+            "year": 2021
+          },
+          "to": {
+            "day": null,
+            "month": null,
+            "year": null
+          }
+        },
+        "string": "Aug 6, 2021"
+      },
+      "duration": "1 hr 44 min",
+      "rating": "PG-13 - Teens 13 or older",
+      "score": 7.58,
+      "scored_by": 116210,
+      "rank": 1621,
+      "popularity": 970,
+      "members": 264240,
+      "favorites": 1018,
+      "synopsis": "Under the doctrines of Quirk Doomsday Theory, the ideological group Humarise is convinced that all humans with quirks are diseased and must be eradicated. In order to rebuild the world, the group's extremists have constructed a lethal device known as a Trigger Bomb that causes people with quirks to lose control and die. Their leader, Flect Turn, evades capture from the Pro Heroes deployed around the world. During his work study in the country of Otheon with Japan's number one Pro Hero, Izuku Deku Midoriya is accused of a crime he did not commit. Unintentionally involving Roddy Soul, a local, Deku soon finds himself on the run with the boy. It is now up to Rody, Deku, and Deku's classmates to stop the Trigger Bomb plot set in motion by Flect, all while eluding the other persistent members of Humarise. [Written by MAL Rewrite]",
+      "background": "",
+      "season": null,
+      "year": null,
+      "broadcast": {
+        "day": null,
+        "time": null,
+        "timezone": null,
+        "string": null
+      },
+      "producers": [],
+      "licensors": [
+        {
+          "mal_id": 102,
+          "type": "anime",
+          "name": "Funimation",
+          "url": "https://myanimelist.net/anime/producer/102/Funimation"
+        }
+      ],
+      "studios": [
+        {
+          "mal_id": 4,
+          "type": "anime",
+          "name": "Bones",
+          "url": "https://myanimelist.net/anime/producer/4/Bones"
+        }
+      ],
+      "genres": [
+        {
+          "mal_id": 1,
+          "type": "anime",
+          "name": "Action",
+          "url": "https://myanimelist.net/anime/genre/1/Action"
+        }
+      ],
+      "explicit_genres": [],
+      "themes": [
+        {
+          "mal_id": 31,
+          "type": "anime",
+          "name": "Super Power",
+          "url": "https://myanimelist.net/anime/genre/31/Super_Power"
+        }
+      ],
+      "demographics": [
+        {
+          "mal_id": 27,
+          "type": "anime",
+          "name": "Shounen",
+          "url": "https://myanimelist.net/anime/genre/27/Shounen"
+        }
+      ]
+    },
+    {
+      "mal_id": 35262,
+      "url": "https://myanimelist.net/anime/35262/Boku_no_Hero_Academia__Hero_Note",
+      "images": {
+        "jpg": {
+          "image_url": "https://cdn.myanimelist.net/images/anime/1089/121748.jpg",
+          "small_image_url": "https://cdn.myanimelist.net/images/anime/1089/121748t.jpg",
+          "large_image_url": "https://cdn.myanimelist.net/images/anime/1089/121748l.jpg"
+        },
+        "webp": {
+          "image_url": "https://cdn.myanimelist.net/images/anime/1089/121748.webp",
+          "small_image_url": "https://cdn.myanimelist.net/images/anime/1089/121748t.webp",
+          "large_image_url": "https://cdn.myanimelist.net/images/anime/1089/121748l.webp"
+        }
+      },
+      "trailer": {
+        "youtube_id": null,
+        "url": null,
+        "embed_url": null,
+        "images": {
+          "image_url": null,
+          "small_image_url": null,
+          "medium_image_url": null,
+          "large_image_url": null,
+          "maximum_image_url": null
+        }
+      },
+      "approved": true,
+      "titles": [
+        {
+          "type": "Default",
+          "title": "Boku no Hero Academia: Hero Note"
+        },
+        {
+          "type": "Synonym",
+          "title": "Boku no Hero Academia Recap"
+        },
+        {
+          "type": "Synonym",
+          "title": "Boku no Hero Academia 13.5"
+        },
+        {
+          "type": "Japanese",
+          "title": "僕のヒーローアカデミア ヒーローノート"
+        },
+        {
+          "type": "English",
+          "title": "My Hero Academia: Hero Notebook"
+        }
+      ],
+      "title": "Boku no Hero Academia: Hero Note",
+      "title_english": "My Hero Academia: Hero Notebook",
+      "title_japanese": "僕のヒーローアカデミア ヒーローノート",
+      "title_synonyms": [
+        "Boku no Hero Academia Recap",
+        "Boku no Hero Academia 13.5"
+      ],
+      "type": "TV Special",
+      "source": "Manga",
+      "episodes": 1,
+      "status": "Finished Airing",
+      "airing": false,
+      "aired": {
+        "from": "2017-03-25T00:00:00+00:00",
+        "to": null,
+        "prop": {
+          "from": {
+            "day": 25,
+            "month": 3,
+            "year": 2017
+          },
+          "to": {
+            "day": null,
+            "month": null,
+            "year": null
+          }
+        },
+        "string": "Mar 25, 2017"
+      },
+      "duration": "23 min",
+      "rating": "PG-13 - Teens 13 or older",
+      "score": 7.26,
+      "scored_by": 93643,
+      "rank": 3002,
+      "popularity": 1333,
+      "members": 189353,
+      "favorites": 603,
+      "synopsis": "Recap of Boku no Hero Academia that aired a week before the second season.",
+      "background": "",
+      "season": null,
+      "year": null,
+      "broadcast": {
+        "day": null,
+        "time": null,
+        "timezone": null,
+        "string": null
+      },
+      "producers": [],
+      "licensors": [
+        {
+          "mal_id": 102,
+          "type": "anime",
+          "name": "Funimation",
+          "url": "https://myanimelist.net/anime/producer/102/Funimation"
+        }
+      ],
+      "studios": [
+        {
+          "mal_id": 4,
+          "type": "anime",
+          "name": "Bones",
+          "url": "https://myanimelist.net/anime/producer/4/Bones"
+        }
+      ],
+      "genres": [
+        {
+          "mal_id": 1,
+          "type": "anime",
+          "name": "Action",
+          "url": "https://myanimelist.net/anime/genre/1/Action"
+        }
+      ],
+      "explicit_genres": [],
+      "themes": [
+        {
+          "mal_id": 23,
+          "type": "anime",
+          "name": "School",
+          "url": "https://myanimelist.net/anime/genre/23/School"
+        },
+        {
+          "mal_id": 31,
+          "type": "anime",
+          "name": "Super Power",
+          "url": "https://myanimelist.net/anime/genre/31/Super_Power"
+        }
+      ],
+      "demographics": [
+        {
+          "mal_id": 27,
+          "type": "anime",
+          "name": "Shounen",
+          "url": "https://myanimelist.net/anime/genre/27/Shounen"
+        }
+      ]
+    },
+    {
+      "mal_id": 33929,
+      "url": "https://myanimelist.net/anime/33929/Boku_no_Hero_Academia__Sukue_Kyuujo_Kunren",
+      "images": {
+        "jpg": {
+          "image_url": "https://cdn.myanimelist.net/images/anime/1812/111684.jpg",
+          "small_image_url": "https://cdn.myanimelist.net/images/anime/1812/111684t.jpg",
+          "large_image_url": "https://cdn.myanimelist.net/images/anime/1812/111684l.jpg"
+        },
+        "webp": {
+          "image_url": "https://cdn.myanimelist.net/images/anime/1812/111684.webp",
+          "small_image_url": "https://cdn.myanimelist.net/images/anime/1812/111684t.webp",
+          "large_image_url": "https://cdn.myanimelist.net/images/anime/1812/111684l.webp"
+        }
+      },
+      "trailer": {
+        "youtube_id": "-vBvKpRSers",
+        "url": "https://www.youtube.com/watch?v=-vBvKpRSers",
+        "embed_url": "https://www.youtube.com/embed/-vBvKpRSers?enablejsapi=1&wmode=opaque&autoplay=1",
+        "images": {
+          "image_url": "https://img.youtube.com/vi/-vBvKpRSers/default.jpg",
+          "small_image_url": "https://img.youtube.com/vi/-vBvKpRSers/sddefault.jpg",
+          "medium_image_url": "https://img.youtube.com/vi/-vBvKpRSers/mqdefault.jpg",
+          "large_image_url": "https://img.youtube.com/vi/-vBvKpRSers/hqdefault.jpg",
+          "maximum_image_url": "https://img.youtube.com/vi/-vBvKpRSers/maxresdefault.jpg"
+        }
+      },
+      "approved": true,
+      "titles": [
+        {
+          "type": "Default",
+          "title": "Boku no Hero Academia: Sukue! Kyuujo Kunren!"
+        },
+        {
+          "type": "Synonym",
+          "title": "Boku no Hero Academia Jump Festa 2016 Special"
+        },
+        {
+          "type": "Japanese",
+          "title": "僕のヒーローアカデミア救え!救助訓練!"
+        },
+        {
+          "type": "English",
+          "title": "My Hero Academia: Rescue! Rescue Training"
+        }
+      ],
+      "title": "Boku no Hero Academia: Sukue! Kyuujo Kunren!",
+      "title_english": "My Hero Academia: Rescue! Rescue Training",
+      "title_japanese": "僕のヒーローアカデミア救え!救助訓練!",
+      "title_synonyms": [
+        "Boku no Hero Academia Jump Festa 2016 Special"
+      ],
+      "type": "OVA",
+      "source": "Manga",
+      "episodes": 1,
+      "status": "Finished Airing",
+      "airing": false,
+      "aired": {
+        "from": "2017-04-04T00:00:00+00:00",
+        "to": null,
+        "prop": {
+          "from": {
+            "day": 4,
+            "month": 4,
+            "year": 2017
+          },
+          "to": {
+            "day": null,
+            "month": null,
+            "year": null
+          }
+        },
+        "string": "Apr 4, 2017"
+      },
+      "duration": "26 min",
+      "rating": "PG-13 - Teens 13 or older",
+      "score": 7.22,
+      "scored_by": 93143,
+      "rank": 3219,
+      "popularity": 1358,
+      "members": 186724,
+      "favorites": 162,
+      "synopsis": "UA High School must regain the public's confidence after the surprise villain attack during class 1-A's training session. Although some of the teachers were gravely injured in the attack, Izuku Deku Midoriya and his classmates must continue to learn and train, and utilize their quirks in varying environments and circumstances. Boku no Hero Academia: Sukue! Kyuujo Kunren! follows class 1-A as they attempt to finally complete their training. However, there's a masked figure roaming around the training center. Have the villains responsible for the previous incident returned to finish the job? If so, are the students ready to fight back? [Written by MAL Rewrite]",
+      "background": "Boku no Hero Academia: Sukue! Kyuujo Kunren! (救え!救助訓練!) was screened at Jump Festa 2016 on November 27, 2016. The OVA was later bundled with the 13th volume of the manga, released April 4, 2017.",
+      "season": null,
+      "year": null,
+      "broadcast": {
+        "day": null,
+        "time": null,
+        "timezone": null,
+        "string": null
+      },
+      "producers": [],
+      "licensors": [],
+      "studios": [
+        {
+          "mal_id": 4,
+          "type": "anime",
+          "name": "Bones",
+          "url": "https://myanimelist.net/anime/producer/4/Bones"
+        }
+      ],
+      "genres": [
+        {
+          "mal_id": 1,
+          "type": "anime",
+          "name": "Action",
+          "url": "https://myanimelist.net/anime/genre/1/Action"
+        }
+      ],
+      "explicit_genres": [],
+      "themes": [
+        {
+          "mal_id": 23,
+          "type": "anime",
+          "name": "School",
+          "url": "https://myanimelist.net/anime/genre/23/School"
+        },
+        {
+          "mal_id": 31,
+          "type": "anime",
+          "name": "Super Power",
+          "url": "https://myanimelist.net/anime/genre/31/Super_Power"
+        }
+      ],
+      "demographics": [
+        {
+          "mal_id": 27,
+          "type": "anime",
+          "name": "Shounen",
+          "url": "https://myanimelist.net/anime/genre/27/Shounen"
+        }
+      ]
+    },
+    {
+      "mal_id": 42603,
+      "url": "https://myanimelist.net/anime/42603/Boku_no_Hero_Academia__Ikinokore_Kesshi_no_Survival_Kunren",
+      "images": {
+        "jpg": {
+          "image_url": "https://cdn.myanimelist.net/images/anime/1345/108741.jpg",
+          "small_image_url": "https://cdn.myanimelist.net/images/anime/1345/108741t.jpg",
+          "large_image_url": "https://cdn.myanimelist.net/images/anime/1345/108741l.jpg"
+        },
+        "webp": {
+          "image_url": "https://cdn.myanimelist.net/images/anime/1345/108741.webp",
+          "small_image_url": "https://cdn.myanimelist.net/images/anime/1345/108741t.webp",
+          "large_image_url": "https://cdn.myanimelist.net/images/anime/1345/108741l.webp"
+        }
+      },
+      "trailer": {
+        "youtube_id": null,
+        "url": null,
+        "embed_url": null,
+        "images": {
+          "image_url": null,
+          "small_image_url": null,
+          "medium_image_url": null,
+          "large_image_url": null,
+          "maximum_image_url": null
+        }
+      },
+      "approved": true,
+      "titles": [
+        {
+          "type": "Default",
+          "title": "Boku no Hero Academia: Ikinokore! Kesshi no Survival Kunren"
+        },
+        {
+          "type": "Japanese",
+          "title": "僕のヒーローアカデミア 生き残れ！決死のサバイバル訓練"
+        },
+        {
+          "type": "English",
+          "title": "My Hero Academia: Make It! Do-or-Die Survival Training"
+        },
+        {
+          "type": "Spanish",
+          "title": "My Hero Academia Temporada 4 Ovas: ¡Sobrevive! Entrenamiento de Supervivencia Mortal"
+        }
+      ],
+      "title": "Boku no Hero Academia: Ikinokore! Kesshi no Survival Kunren",
+      "title_english": "My Hero Academia: Make It! Do-or-Die Survival Training",
+      "title_japanese": "僕のヒーローアカデミア 生き残れ！決死のサバイバル訓練",
+      "title_synonyms": [],
+      "type": "ONA",
+      "source": "Manga",
+      "episodes": 2,
+      "status": "Finished Airing",
+      "airing": false,
+      "aired": {
+        "from": "2020-08-16T00:00:00+00:00",
+        "to": null,
+        "prop": {
+          "from": {
+            "day": 16,
+            "month": 8,
+            "year": 2020
+          },
+          "to": {
+            "day": null,
+            "month": null,
+            "year": null
+          }
+        },
+        "string": "Aug 16, 2020"
+      },
+      "duration": "23 min per ep",
+      "rating": "PG-13 - Teens 13 or older",
+      "score": 7.16,
+      "scored_by": 96162,
+      "rank": 3548,
+      "popularity": 1356,
+      "members": 187024,
+      "favorites": 191,
+      "synopsis": "The stage this time is a survival training course, taking place before the Provisional Hero License Exam arc. Class 1-A students are sent to hone their survival skills at a training course. Having yet to receive their provisional licenses, they're eager to cut loose and have a little fun. They quickly discover that the danger they face is no simulation! It's going to take their combined training, teamwork, and quick thinking if they're going to pass this assignment! (Source: Funimation)",
+      "background": "",
+      "season": null,
+      "year": null,
+      "broadcast": {
+        "day": null,
+        "time": null,
+        "timezone": null,
+        "string": null
+      },
+      "producers": [],
+      "licensors": [
+        {
+          "mal_id": 102,
+          "type": "anime",
+          "name": "Funimation",
+          "url": "https://myanimelist.net/anime/producer/102/Funimation"
+        }
+      ],
+      "studios": [
+        {
+          "mal_id": 4,
+          "type": "anime",
+          "name": "Bones",
+          "url": "https://myanimelist.net/anime/producer/4/Bones"
+        }
+      ],
+      "genres": [
+        {
+          "mal_id": 1,
+          "type": "anime",
+          "name": "Action",
+          "url": "https://myanimelist.net/anime/genre/1/Action"
+        }
+      ],
+      "explicit_genres": [],
+      "themes": [
+        {
+          "mal_id": 23,
+          "type": "anime",
+          "name": "School",
+          "url": "https://myanimelist.net/anime/genre/23/School"
+        },
+        {
+          "mal_id": 31,
+          "type": "anime",
+          "name": "Super Power",
+          "url": "https://myanimelist.net/anime/genre/31/Super_Power"
+        }
+      ],
+      "demographics": [
+        {
+          "mal_id": 27,
+          "type": "anime",
+          "name": "Shounen",
+          "url": "https://myanimelist.net/anime/genre/27/Shounen"
+        }
+      ]
+    },
+    {
+      "mal_id": 38699,
+      "url": "https://myanimelist.net/anime/38699/Boku_no_Hero_Academia_the_Movie_1__Futari_no_Hero_Specials",
+      "images": {
+        "jpg": {
+          "image_url": "https://cdn.myanimelist.net/images/anime/1420/96793.jpg",
+          "small_image_url": "https://cdn.myanimelist.net/images/anime/1420/96793t.jpg",
+          "large_image_url": "https://cdn.myanimelist.net/images/anime/1420/96793l.jpg"
+        },
+        "webp": {
+          "image_url": "https://cdn.myanimelist.net/images/anime/1420/96793.webp",
+          "small_image_url": "https://cdn.myanimelist.net/images/anime/1420/96793t.webp",
+          "large_image_url": "https://cdn.myanimelist.net/images/anime/1420/96793l.webp"
+        }
+      },
+      "trailer": {
+        "youtube_id": "rDiAzyQwavc",
+        "url": "https://www.youtube.com/watch?v=rDiAzyQwavc",
+        "embed_url": "https://www.youtube.com/embed/rDiAzyQwavc?enablejsapi=1&wmode=opaque&autoplay=1",
+        "images": {
+          "image_url": "https://img.youtube.com/vi/rDiAzyQwavc/default.jpg",
+          "small_image_url": "https://img.youtube.com/vi/rDiAzyQwavc/sddefault.jpg",
+          "medium_image_url": "https://img.youtube.com/vi/rDiAzyQwavc/mqdefault.jpg",
+          "large_image_url": "https://img.youtube.com/vi/rDiAzyQwavc/hqdefault.jpg",
+          "maximum_image_url": "https://img.youtube.com/vi/rDiAzyQwavc/maxresdefault.jpg"
+        }
+      },
+      "approved": true,
+      "titles": [
+        {
+          "type": "Default",
+          "title": "Boku no Hero Academia the Movie 1: Futari no Hero Specials"
+        },
+        {
+          "type": "Synonym",
+          "title": "All Might: Rising - The Animation"
+        },
+        {
+          "type": "Synonym",
+          "title": "Boku no Hero Academia Picture Drama"
+        },
+        {
+          "type": "Synonym",
+          "title": "My Hero Academia: All Might Rising"
+        },
+        {
+          "type": "Japanese",
+          "title": "僕のヒーローアカデミア THE MOVIE ～2人の英雄（ヒーロー）～ 特典"
+        },
+        {
+          "type": "English",
+          "title": "My Hero Academia: Two Heroes Specials"
+        }
+      ],
+      "title": "Boku no Hero Academia the Movie 1: Futari no Hero Specials",
+      "title_english": "My Hero Academia: Two Heroes Specials",
+      "title_japanese": "僕のヒーローアカデミア THE MOVIE ～2人の英雄（ヒーロー）～ 特典",
+      "title_synonyms": [
+        "All Might: Rising - The Animation",
+        "Boku no Hero Academia Picture Drama",
+        "My Hero Academia: All Might Rising"
+      ],
+      "type": "Special",
+      "source": "Manga",
+      "episodes": 2,
+      "status": "Finished Airing",
+      "airing": false,
+      "aired": {
+        "from": "2019-02-13T00:00:00+00:00",
+        "to": null,
+        "prop": {
+          "from": {
+            "day": 13,
+            "month": 2,
+            "year": 2019
+          },
+          "to": {
+            "day": null,
+            "month": null,
+            "year": null
+          }
+        },
+        "string": "Feb 13, 2019"
+      },
+      "duration": "4 min per ep",
+      "rating": "PG-13 - Teens 13 or older",
+      "score": 7.35,
+      "scored_by": 62159,
+      "rank": 2530,
+      "popularity": 1740,
+      "members": 136879,
+      "favorites": 163,
+      "synopsis": "Episode 1 is based on one-shot manga released in Vol. Origin, it explores the back-story of All Might's past and his journey into becoming the No.1 hero. Episode 2 is an epilogue picture drama for Boku no Hero Academia the Movie: Futari no Hero. Short specials included with the Blu-ray/DVD release of Boku no Hero Academia the Movie: Futari no Hero.",
+      "background": "",
+      "season": null,
+      "year": null,
+      "broadcast": {
+        "day": null,
+        "time": null,
+        "timezone": null,
+        "string": null
+      },
+      "producers": [],
+      "licensors": [],
+      "studios": [
+        {
+          "mal_id": 4,
+          "type": "anime",
+          "name": "Bones",
+          "url": "https://myanimelist.net/anime/producer/4/Bones"
+        }
+      ],
+      "genres": [
+        {
+          "mal_id": 1,
+          "type": "anime",
+          "name": "Action",
+          "url": "https://myanimelist.net/anime/genre/1/Action"
+        }
+      ],
+      "explicit_genres": [],
+      "themes": [
+        {
+          "mal_id": 31,
+          "type": "anime",
+          "name": "Super Power",
+          "url": "https://myanimelist.net/anime/genre/31/Super_Power"
+        }
+      ],
+      "demographics": [
+        {
+          "mal_id": 27,
+          "type": "anime",
+          "name": "Shounen",
+          "url": "https://myanimelist.net/anime/genre/27/Shounen"
+        }
+      ]
+    },
+    {
+      "mal_id": 54789,
+      "url": "https://myanimelist.net/anime/54789/Boku_no_Hero_Academia_7th_Season",
+      "images": {
+        "jpg": {
+          "image_url": "https://cdn.myanimelist.net/images/anime/1529/140306.jpg",
+          "small_image_url": "https://cdn.myanimelist.net/images/anime/1529/140306t.jpg",
+          "large_image_url": "https://cdn.myanimelist.net/images/anime/1529/140306l.jpg"
+        },
+        "webp": {
+          "image_url": "https://cdn.myanimelist.net/images/anime/1529/140306.webp",
+          "small_image_url": "https://cdn.myanimelist.net/images/anime/1529/140306t.webp",
+          "large_image_url": "https://cdn.myanimelist.net/images/anime/1529/140306l.webp"
+        }
+      },
+      "trailer": {
+        "youtube_id": "E5pcEwi6ynk",
+        "url": "https://www.youtube.com/watch?v=E5pcEwi6ynk",
+        "embed_url": "https://www.youtube.com/embed/E5pcEwi6ynk?enablejsapi=1&wmode=opaque&autoplay=1",
+        "images": {
+          "image_url": "https://img.youtube.com/vi/E5pcEwi6ynk/default.jpg",
+          "small_image_url": "https://img.youtube.com/vi/E5pcEwi6ynk/sddefault.jpg",
+          "medium_image_url": "https://img.youtube.com/vi/E5pcEwi6ynk/mqdefault.jpg",
+          "large_image_url": "https://img.youtube.com/vi/E5pcEwi6ynk/hqdefault.jpg",
+          "maximum_image_url": "https://img.youtube.com/vi/E5pcEwi6ynk/maxresdefault.jpg"
+        }
+      },
+      "approved": true,
+      "titles": [
+        {
+          "type": "Default",
+          "title": "Boku no Hero Academia 7th Season"
+        },
+        {
+          "type": "Synonym",
+          "title": "My Hero Academia 7"
+        },
+        {
+          "type": "Japanese",
+          "title": "僕のヒーローアカデミア 第7期"
+        },
+        {
+          "type": "English",
+          "title": "My Hero Academia Season 7"
+        }
+      ],
+      "title": "Boku no Hero Academia 7th Season",
+      "title_english": "My Hero Academia Season 7",
+      "title_japanese": "僕のヒーローアカデミア 第7期",
+      "title_synonyms": [
+        "My Hero Academia 7"
+      ],
+      "type": "TV",
+      "source": "Manga",
+      "episodes": 21,
+      "status": "Finished Airing",
+      "airing": false,
+      "aired": {
+        "from": "2024-05-04T00:00:00+00:00",
+        "to": "2024-10-12T00:00:00+00:00",
+        "prop": {
+          "from": {
+            "day": 4,
+            "month": 5,
+            "year": 2024
+          },
+          "to": {
+            "day": 12,
+            "month": 10,
+            "year": 2024
+          }
+        },
+        "string": "May 4, 2024 to Oct 12, 2024"
+      },
+      "duration": "23 min per ep",
+      "rating": "PG-13 - Teens 13 or older",
+      "score": 8.07,
+      "scored_by": 120550,
+      "rank": 549,
+      "popularity": 721,
+      "members": 346686,
+      "favorites": 2566,
+      "synopsis": "Following an all-out battle with the Paranormal Liberation Front, it is difficult for the people of Japan to continue placing faith in their heroes. To combat the combined power of Tomura Shigaraki and All For One, All Might calls for his ally from the West—the strongest woman on the planet, Star and Stripe. However, All For One decides to intercept Star and her fleet to get his hands on her overpowered quirk before she can enter Japanese airspace. Although Endeavor, Hawks, and Best Jeanist are headed to the rendezvous point, Star makes a gamble in the present to save her comrades. [Written by MAL Rewrite]",
+      "background": "",
+      "season": "spring",
+      "year": 2024,
+      "broadcast": {
+        "day": "Saturdays",
+        "time": "17:30",
+        "timezone": "Asia/Tokyo",
+        "string": "Saturdays at 17:30 (JST)"
+      },
+      "producers": [
+        {
+          "mal_id": 53,
+          "type": "anime",
+          "name": "Dentsu",
+          "url": "https://myanimelist.net/anime/producer/53/Dentsu"
+        },
+        {
+          "mal_id": 76,
+          "type": "anime",
+          "name": "Yomiuri Telecasting",
+          "url": "https://myanimelist.net/anime/producer/76/Yomiuri_Telecasting"
+        },
+        {
+          "mal_id": 166,
+          "type": "anime",
+          "name": "Movic",
+          "url": "https://myanimelist.net/anime/producer/166/Movic"
+        },
+        {
+          "mal_id": 757,
+          "type": "anime",
+          "name": "Sony Music Entertainment",
+          "url": "https://myanimelist.net/anime/producer/757/Sony_Music_Entertainment"
+        },
+        {
+          "mal_id": 1143,
+          "type": "anime",
+          "name": "TOHO animation",
+          "url": "https://myanimelist.net/anime/producer/1143/TOHO_animation"
+        },
+        {
+          "mal_id": 1365,
+          "type": "anime",
+          "name": "Shueisha",
+          "url": "https://myanimelist.net/anime/producer/1365/Shueisha"
+        }
+      ],
+      "licensors": [],
+      "studios": [
+        {
+          "mal_id": 4,
+          "type": "anime",
+          "name": "Bones",
+          "url": "https://myanimelist.net/anime/producer/4/Bones"
+        }
+      ],
+      "genres": [
+        {
+          "mal_id": 1,
+          "type": "anime",
+          "name": "Action",
+          "url": "https://myanimelist.net/anime/genre/1/Action"
+        }
+      ],
+      "explicit_genres": [],
+      "themes": [
+        {
+          "mal_id": 23,
+          "type": "anime",
+          "name": "School",
+          "url": "https://myanimelist.net/anime/genre/23/School"
+        },
+        {
+          "mal_id": 31,
+          "type": "anime",
+          "name": "Super Power",
+          "url": "https://myanimelist.net/anime/genre/31/Super_Power"
+        }
+      ],
+      "demographics": [
+        {
+          "mal_id": 27,
+          "type": "anime",
+          "name": "Shounen",
+          "url": "https://myanimelist.net/anime/genre/27/Shounen"
+        }
+      ]
+    },
+    {
+      "mal_id": 43683,
+      "url": "https://myanimelist.net/anime/43683/Boku_no_Hero_Academia_the_Movie_2__Heroes_Rising_-_Epilogue_Plus_-_Yume_wo_Genjitsu_ni",
+      "images": {
+        "jpg": {
+          "image_url": "https://cdn.myanimelist.net/images/anime/1447/110165.jpg",
+          "small_image_url": "https://cdn.myanimelist.net/images/anime/1447/110165t.jpg",
+          "large_image_url": "https://cdn.myanimelist.net/images/anime/1447/110165l.jpg"
+        },
+        "webp": {
+          "image_url": "https://cdn.myanimelist.net/images/anime/1447/110165.webp",
+          "small_image_url": "https://cdn.myanimelist.net/images/anime/1447/110165t.webp",
+          "large_image_url": "https://cdn.myanimelist.net/images/anime/1447/110165l.webp"
+        }
+      },
+      "trailer": {
+        "youtube_id": null,
+        "url": null,
+        "embed_url": null,
+        "images": {
+          "image_url": null,
+          "small_image_url": null,
+          "medium_image_url": null,
+          "large_image_url": null,
+          "maximum_image_url": null
+        }
+      },
+      "approved": true,
+      "titles": [
+        {
+          "type": "Default",
+          "title": "Boku no Hero Academia the Movie 2: Heroes:Rising - Epilogue Plus - Yume wo Genjitsu ni"
+        },
+        {
+          "type": "Synonym",
+          "title": "My Hero Academia Movie 2: Heroes Rising Epilogue Plus"
+        },
+        {
+          "type": "Synonym",
+          "title": "Boku no Hero Academia the Movie 2 Picture Drama"
+        },
+        {
+          "type": "Japanese",
+          "title": "僕のヒーローアカデミア THE MOVIE ヒーローズ・ライジング エピローグ・プラス《夢を現実に》"
+        },
+        {
+          "type": "English",
+          "title": "My Hero Academia: Heroes Rising - Epilogue Plus"
+        }
+      ],
+      "title": "Boku no Hero Academia the Movie 2: Heroes:Rising - Epilogue Plus - Yume wo Genjitsu ni",
+      "title_english": "My Hero Academia: Heroes Rising - Epilogue Plus",
+      "title_japanese": "僕のヒーローアカデミア THE MOVIE ヒーローズ・ライジング エピローグ・プラス《夢を現実に》",
+      "title_synonyms": [
+        "My Hero Academia Movie 2: Heroes Rising Epilogue Plus",
+        "Boku no Hero Academia the Movie 2 Picture Drama"
+      ],
+      "type": "Special",
+      "source": "Manga",
+      "episodes": 1,
+      "status": "Finished Airing",
+      "airing": false,
+      "aired": {
+        "from": "2020-07-15T00:00:00+00:00",
+        "to": null,
+        "prop": {
+          "from": {
+            "day": 15,
+            "month": 7,
+            "year": 2020
+          },
+          "to": {
+            "day": null,
+            "month": null,
+            "year": null
+          }
+        },
+        "string": "Jul 15, 2020"
+      },
+      "duration": "9 min",
+      "rating": "PG-13 - Teens 13 or older",
+      "score": 7.46,
+      "scored_by": 20419,
+      "rank": 2081,
+      "popularity": 3281,
+      "members": 50043,
+      "favorites": 100,
+      "synopsis": "A picture drama epilogue to the film Boku no Hero Academia the Movie 2: Heroes:Rising, bundled with the BD/DVD release.",
+      "background": "",
+      "season": null,
+      "year": null,
+      "broadcast": {
+        "day": null,
+        "time": null,
+        "timezone": null,
+        "string": null
+      },
+      "producers": [],
+      "licensors": [],
+      "studios": [
+        {
+          "mal_id": 4,
+          "type": "anime",
+          "name": "Bones",
+          "url": "https://myanimelist.net/anime/producer/4/Bones"
+        }
+      ],
+      "genres": [
+        {
+          "mal_id": 4,
+          "type": "anime",
+          "name": "Comedy",
+          "url": "https://myanimelist.net/anime/genre/4/Comedy"
+        }
+      ],
+      "explicit_genres": [],
+      "themes": [],
+      "demographics": []
+    },
+    {
+      "mal_id": 51781,
+      "url": "https://myanimelist.net/anime/51781/Boku_no_Hero_Academia_ONA",
+      "images": {
+        "jpg": {
+          "image_url": "https://cdn.myanimelist.net/images/anime/1873/123688.jpg",
+          "small_image_url": "https://cdn.myanimelist.net/images/anime/1873/123688t.jpg",
+          "large_image_url": "https://cdn.myanimelist.net/images/anime/1873/123688l.jpg"
+        },
+        "webp": {
+          "image_url": "https://cdn.myanimelist.net/images/anime/1873/123688.webp",
+          "small_image_url": "https://cdn.myanimelist.net/images/anime/1873/123688t.webp",
+          "large_image_url": "https://cdn.myanimelist.net/images/anime/1873/123688l.webp"
+        }
+      },
+      "trailer": {
+        "youtube_id": null,
+        "url": null,
+        "embed_url": null,
+        "images": {
+          "image_url": null,
+          "small_image_url": null,
+          "medium_image_url": null,
+          "large_image_url": null,
+          "maximum_image_url": null
+        }
+      },
+      "approved": true,
+      "titles": [
+        {
+          "type": "Default",
+          "title": "Boku no Hero Academia (ONA)"
+        },
+        {
+          "type": "Synonym",
+          "title": "Boku no Hero Academia HLA"
+        },
+        {
+          "type": "Synonym",
+          "title": "Heroes League Baseball"
+        },
+        {
+          "type": "Synonym",
+          "title": "Boku no Hero Academia: Warae! Jigoku no You ni"
+        },
+        {
+          "type": "Japanese",
+          "title": "僕のヒーローアカデミア"
+        },
+        {
+          "type": "English",
+          "title": "My Hero Academia ONA"
+        }
+      ],
+      "title": "Boku no Hero Academia (ONA)",
+      "title_english": "My Hero Academia ONA",
+      "title_japanese": "僕のヒーローアカデミア",
+      "title_synonyms": [
+        "Boku no Hero Academia HLA",
+        "Heroes League Baseball",
+        "Boku no Hero Academia: Warae! Jigoku no You ni"
+      ],
+      "type": "ONA",
+      "source": "Manga",
+      "episodes": 2,
+      "status": "Finished Airing",
+      "airing": false,
+      "aired": {
+        "from": "2022-06-16T00:00:00+00:00",
+        "to": null,
+        "prop": {
+          "from": {
+            "day": 16,
+            "month": 6,
+            "year": 2022
+          },
+          "to": {
+            "day": null,
+            "month": null,
+            "year": null
+          }
+        },
+        "string": "Jun 16, 2022"
+      },
+      "duration": "23 min per ep",
+      "rating": "PG-13 - Teens 13 or older",
+      "score": 6.82,
+      "scored_by": 21709,
+      "rank": 5210,
+      "popularity": 3318,
+      "members": 48867,
+      "favorites": 62,
+      "synopsis": "Episode 1: HLB HLB stands for Hero League of Baseball—it is a baseball league founded by pro-heroes who love baseball! It's game day! The last game of HLB championship is between Gang Orca and Shishido's two rival agencies. They form a team (Orcas and Lionels) to compete. In the world of HLB, there is no rule—using their Quirks is of course accepted; however, just when the game is about to finish, they are interrupted by a villain. Who will be the winner of HLB?! Episode 2: Laugh! As if you are in hell Deku, Bakugo, and Todoroki participate in an internship under the No.1 hero, Endeavor's agency. One of their tasks these days is to find a villain (Smiley) who draws doodles in the city; however, since the urgency is so low, they let other pro-heroes solve this case. One day, Smiley draws a doodle on Endeavor's house! Being furious, Endeavor himself and the 1-A trio go out to get the villain' however, Smiley's Quirk turns out to be something ridiculous but powerful... It is to make anyone who looks into his eyes laugh hysterically! Can the team capture the villain and stop laughing?!",
+      "background": "",
+      "season": null,
+      "year": null,
+      "broadcast": {
+        "day": null,
+        "time": null,
+        "timezone": null,
+        "string": null
+      },
+      "producers": [],
+      "licensors": [],
+      "studios": [
+        {
+          "mal_id": 4,
+          "type": "anime",
+          "name": "Bones",
+          "url": "https://myanimelist.net/anime/producer/4/Bones"
+        }
+      ],
+      "genres": [
+        {
+          "mal_id": 30,
+          "type": "anime",
+          "name": "Sports",
+          "url": "https://myanimelist.net/anime/genre/30/Sports"
+        }
+      ],
+      "explicit_genres": [],
+      "themes": [
+        {
+          "mal_id": 23,
+          "type": "anime",
+          "name": "School",
+          "url": "https://myanimelist.net/anime/genre/23/School"
+        },
+        {
+          "mal_id": 31,
+          "type": "anime",
+          "name": "Super Power",
+          "url": "https://myanimelist.net/anime/genre/31/Super_Power"
+        },
+        {
+          "mal_id": 77,
+          "type": "anime",
+          "name": "Team Sports",
+          "url": "https://myanimelist.net/anime/genre/77/Team_Sports"
+        }
+      ],
+      "demographics": [
+        {
+          "mal_id": 27,
+          "type": "anime",
+          "name": "Shounen",
+          "url": "https://myanimelist.net/anime/genre/27/Shounen"
+        }
+      ]
+    },
+    {
+      "mal_id": 50532,
+      "url": "https://myanimelist.net/anime/50532/Boku_no_Hero_Academia_the_Movie_3__World_Heroes_Mission_-_Tabidachi",
+      "images": {
+        "jpg": {
+          "image_url": "https://cdn.myanimelist.net/images/anime/1935/121274.jpg",
+          "small_image_url": "https://cdn.myanimelist.net/images/anime/1935/121274t.jpg",
+          "large_image_url": "https://cdn.myanimelist.net/images/anime/1935/121274l.jpg"
+        },
+        "webp": {
+          "image_url": "https://cdn.myanimelist.net/images/anime/1935/121274.webp",
+          "small_image_url": "https://cdn.myanimelist.net/images/anime/1935/121274t.webp",
+          "large_image_url": "https://cdn.myanimelist.net/images/anime/1935/121274l.webp"
+        }
+      },
+      "trailer": {
+        "youtube_id": null,
+        "url": null,
+        "embed_url": null,
+        "images": {
+          "image_url": null,
+          "small_image_url": null,
+          "medium_image_url": null,
+          "large_image_url": null,
+          "maximum_image_url": null
+        }
+      },
+      "approved": true,
+      "titles": [
+        {
+          "type": "Default",
+          "title": "Boku no Hero Academia the Movie 3: World Heroes' Mission - Tabidachi"
+        },
+        {
+          "type": "Synonym",
+          "title": "My Hero Academia: World Heroes' Mission"
+        },
+        {
+          "type": "Japanese",
+          "title": "僕のヒーローアカデミア THE MOVIEワールド ヒーローズ ミッション≪旅立ち≫"
+        },
+        {
+          "type": "English",
+          "title": "My Hero Academia: World Heroes' Mission - Take-off"
+        }
+      ],
+      "title": "Boku no Hero Academia the Movie 3: World Heroes' Mission - Tabidachi",
+      "title_english": "My Hero Academia: World Heroes' Mission - Take-off",
+      "title_japanese": "僕のヒーローアカデミア THE MOVIE　ワールド ヒーローズ ミッション　≪旅立ち≫",
+      "title_synonyms": [
+        "My Hero Academia: World Heroes' Mission"
+      ],
+      "type": "Special",
+      "source": "Manga",
+      "episodes": 1,
+      "status": "Finished Airing",
+      "airing": false,
+      "aired": {
+        "from": "2022-02-16T00:00:00+00:00",
+        "to": null,
+        "prop": {
+          "from": {
+            "day": 16,
+            "month": 2,
+            "year": 2022
+          },
+          "to": {
+            "day": null,
+            "month": null,
+            "year": null
+          }
+        },
+        "string": "Feb 16, 2022"
+      },
+      "duration": "5 min",
+      "rating": "PG-13 - Teens 13 or older",
+      "score": 7.43,
+      "scored_by": 13529,
+      "rank": 2200,
+      "popularity": 3974,
+      "members": 34586,
+      "favorites": 95,
+      "synopsis": "Adaptation of No.XXX Hawks: SOOTHE side-chapter in the Vol.World Heroes manga which was a special present for movie attendees in Japan and in selected American theaters. Included in the Plus Ultra version of the film's Blu-ray and DVD release in Japan.",
+      "background": "",
+      "season": null,
+      "year": null,
+      "broadcast": {
+        "day": null,
+        "time": null,
+        "timezone": null,
+        "string": null
+      },
+      "producers": [],
+      "licensors": [],
+      "studios": [
+        {
+          "mal_id": 4,
+          "type": "anime",
+          "name": "Bones",
+          "url": "https://myanimelist.net/anime/producer/4/Bones"
+        }
+      ],
+      "genres": [
+        {
+          "mal_id": 1,
+          "type": "anime",
+          "name": "Action",
+          "url": "https://myanimelist.net/anime/genre/1/Action"
+        }
+      ],
+      "explicit_genres": [],
+      "themes": [
+        {
+          "mal_id": 31,
+          "type": "anime",
+          "name": "Super Power",
+          "url": "https://myanimelist.net/anime/genre/31/Super_Power"
+        }
+      ],
+      "demographics": [
+        {
+          "mal_id": 27,
+          "type": "anime",
+          "name": "Shounen",
+          "url": "https://myanimelist.net/anime/genre/27/Shounen"
+        }
+      ]
+    },
+    {
+      "mal_id": 35459,
+      "url": "https://myanimelist.net/anime/35459/Boku_no_Hero_Academia__Training_of_the_Dead",
+      "images": {
+        "jpg": {
+          "image_url": "https://cdn.myanimelist.net/images/anime/1624/111683.jpg",
+          "small_image_url": "https://cdn.myanimelist.net/images/anime/1624/111683t.jpg",
+          "large_image_url": "https://cdn.myanimelist.net/images/anime/1624/111683l.jpg"
+        },
+        "webp": {
+          "image_url": "https://cdn.myanimelist.net/images/anime/1624/111683.webp",
+          "small_image_url": "https://cdn.myanimelist.net/images/anime/1624/111683t.webp",
+          "large_image_url": "https://cdn.myanimelist.net/images/anime/1624/111683l.webp"
+        }
+      },
+      "trailer": {
+        "youtube_id": "qDKb6Rqwi0k",
+        "url": "https://www.youtube.com/watch?v=qDKb6Rqwi0k",
+        "embed_url": "https://www.youtube.com/embed/qDKb6Rqwi0k?enablejsapi=1&wmode=opaque&autoplay=1",
+        "images": {
+          "image_url": "https://img.youtube.com/vi/qDKb6Rqwi0k/default.jpg",
+          "small_image_url": "https://img.youtube.com/vi/qDKb6Rqwi0k/sddefault.jpg",
+          "medium_image_url": "https://img.youtube.com/vi/qDKb6Rqwi0k/mqdefault.jpg",
+          "large_image_url": "https://img.youtube.com/vi/qDKb6Rqwi0k/hqdefault.jpg",
+          "maximum_image_url": "https://img.youtube.com/vi/qDKb6Rqwi0k/maxresdefault.jpg"
+        }
+      },
+      "approved": true,
+      "titles": [
+        {
+          "type": "Default",
+          "title": "Boku no Hero Academia: Training of the Dead"
+        },
+        {
+          "type": "Japanese",
+          "title": "僕のヒーローアカデミア トレーニング・オブ・ザ・デッド"
+        },
+        {
+          "type": "English",
+          "title": "My Hero Academia: Training of the Dead"
+        }
+      ],
+      "title": "Boku no Hero Academia: Training of the Dead",
+      "title_english": "My Hero Academia: Training of the Dead",
+      "title_japanese": "僕のヒーローアカデミア トレーニング・オブ・ザ・デッド",
+      "title_synonyms": [],
+      "type": "OVA",
+      "source": "Manga",
+      "episodes": 1,
+      "status": "Finished Airing",
+      "airing": false,
+      "aired": {
+        "from": "2017-06-02T00:00:00+00:00",
+        "to": null,
+        "prop": {
+          "from": {
+            "day": 2,
+            "month": 6,
+            "year": 2017
+          },
+          "to": {
+            "day": null,
+            "month": null,
+            "year": null
+          }
+        },
+        "string": "Jun 2, 2017"
+      },
+      "duration": "25 min",
+      "rating": "PG-13 - Teens 13 or older",
+      "score": 7.21,
+      "scored_by": 105856,
+      "rank": 3299,
+      "popularity": 1240,
+      "members": 205096,
+      "favorites": 211,
+      "synopsis": "Returning from their internships, the students of Class 1-A are immediately thrown into more training by their homeroom teacher, Shouta Aizawa. For this exercise, the class will be joining four students from Isamu Academy High School to compete in a survival game. Split up into groups of four, students must either eliminate each other or stay hidden until time runs out to win. The training also acts as a reunion between Tsuyu Asui and her friend from middle school, Habuko Mongoose. However, not all the students from Isamu are friendly—Katsuki Bakugou almost instantly picks a fight with Romero Fujimi. The conflict between the two leads Romero to angrily release his Quirk, a gas which zombifies anyone it comes in contact with. How will the remaining students deal with the situation after most of the people around them turn into zombies? [Written by MAL Rewrite]",
+      "background": "Boku no Hero Academia: Training of the Dead was bundled with the 14th volume of the Boku no Hero Academia manga.",
+      "season": null,
+      "year": null,
+      "broadcast": {
+        "day": null,
+        "time": null,
+        "timezone": null,
+        "string": null
+      },
+      "producers": [],
+      "licensors": [],
+      "studios": [
+        {
+          "mal_id": 4,
+          "type": "anime",
+          "name": "Bones",
+          "url": "https://myanimelist.net/anime/producer/4/Bones"
+        }
+      ],
+      "genres": [
+        {
+          "mal_id": 1,
+          "type": "anime",
+          "name": "Action",
+          "url": "https://myanimelist.net/anime/genre/1/Action"
+        }
+      ],
+      "explicit_genres": [],
+      "themes": [
+        {
+          "mal_id": 23,
+          "type": "anime",
+          "name": "School",
+          "url": "https://myanimelist.net/anime/genre/23/School"
+        },
+        {
+          "mal_id": 31,
+          "type": "anime",
+          "name": "Super Power",
+          "url": "https://myanimelist.net/anime/genre/31/Super_Power"
+        }
+      ],
+      "demographics": [
+        {
+          "mal_id": 27,
+          "type": "anime",
+          "name": "Shounen",
+          "url": "https://myanimelist.net/anime/genre/27/Shounen"
+        }
+      ]
+    },
+    {
+      "mal_id": 60593,
+      "url": "https://myanimelist.net/anime/60593/Vigilante__Boku_no_Hero_Academia_Illegals",
+      "images": {
+        "jpg": {
+          "image_url": "https://cdn.myanimelist.net/images/anime/1381/147097.jpg",
+          "small_image_url": "https://cdn.myanimelist.net/images/anime/1381/147097t.jpg",
+          "large_image_url": "https://cdn.myanimelist.net/images/anime/1381/147097l.jpg"
+        },
+        "webp": {
+          "image_url": "https://cdn.myanimelist.net/images/anime/1381/147097.webp",
+          "small_image_url": "https://cdn.myanimelist.net/images/anime/1381/147097t.webp",
+          "large_image_url": "https://cdn.myanimelist.net/images/anime/1381/147097l.webp"
+        }
+      },
+      "trailer": {
+        "youtube_id": "zy48boIzTH8",
+        "url": "https://www.youtube.com/watch?v=zy48boIzTH8",
+        "embed_url": "https://www.youtube.com/embed/zy48boIzTH8?enablejsapi=1&wmode=opaque&autoplay=1",
+        "images": {
+          "image_url": "https://img.youtube.com/vi/zy48boIzTH8/default.jpg",
+          "small_image_url": "https://img.youtube.com/vi/zy48boIzTH8/sddefault.jpg",
+          "medium_image_url": "https://img.youtube.com/vi/zy48boIzTH8/mqdefault.jpg",
+          "large_image_url": "https://img.youtube.com/vi/zy48boIzTH8/hqdefault.jpg",
+          "maximum_image_url": "https://img.youtube.com/vi/zy48boIzTH8/maxresdefault.jpg"
+        }
+      },
+      "approved": true,
+      "titles": [
+        {
+          "type": "Default",
+          "title": "Vigilante: Boku no Hero Academia Illegals"
+        },
+        {
+          "type": "Japanese",
+          "title": "ヴィジランテ -僕のヒーローアカデミア ILLEGALS-"
+        },
+        {
+          "type": "English",
+          "title": "My Hero Academia: Vigilantes"
+        }
+      ],
+      "title": "Vigilante: Boku no Hero Academia Illegals",
+      "title_english": "My Hero Academia: Vigilantes",
+      "title_japanese": "ヴィジランテ -僕のヒーローアカデミア ILLEGALS-",
+      "title_synonyms": [],
+      "type": "TV",
+      "source": "Manga",
+      "episodes": null,
+      "status": "Not yet aired",
+      "airing": false,
+      "aired": {
+        "from": "2025-04-01T00:00:00+00:00",
+        "to": null,
+        "prop": {
+          "from": {
+            "day": 1,
+            "month": 4,
+            "year": 2025
+          },
+          "to": {
+            "day": null,
+            "month": null,
+            "year": null
+          }
+        },
+        "string": "Apr 2025 to ?"
+      },
+      "duration": "Unknown",
+      "rating": null,
+      "score": null,
+      "scored_by": null,
+      "rank": null,
+      "popularity": 4753,
+      "members": 23646,
+      "favorites": 43,
+      "synopsis": "Living in a superhuman society, it is hard to feel special. Even more so when the spotlight only shines on professional heroes, those legally authorized to use their special powers known as Quirks in public for the greater good. Kouichi Haimawari grew up aspiring to be a hero, but with a mediocre Quirk like sliding that ties him to the ground, he soon came to the conclusion that he could only ever admire them from below. Despite this, Kouichi finds contentment in using his Quirk to carry out day-to-day good deeds, such as returning lost items and helping the elderly cross the street. However, Kouichi's tame life takes a swing into the turbulent when he is rescued from a back alley brawl by Vigilante, or illegal hero, Knuckleduster. Seeing hero potential in Kouichi, Knuckleduster enlists his help in tracking down the source of a dangerous drug known as Trigger that boosts the user's Quirk at the expense of their rationality. Set in a time before the events of the original story, Vigilante: Boku no Hero Academia Illegals follows Kouichi as he chooses to don the reputation of a villain and become a Vigilante, operating in the shadow of the law to prevent crimes from taking to the surface. [Written by MAL Rewrite]",
+      "background": "",
+      "season": "spring",
+      "year": 2025,
+      "broadcast": {
+        "day": null,
+        "time": null,
+        "timezone": null,
+        "string": "Unknown"
+      },
+      "producers": [],
+      "licensors": [],
+      "studios": [
+        {
+          "mal_id": 3045,
+          "type": "anime",
+          "name": "Bones Film",
+          "url": "https://myanimelist.net/anime/producer/3045/Bones_Film"
+        }
+      ],
+      "genres": [
+        {
+          "mal_id": 1,
+          "type": "anime",
+          "name": "Action",
+          "url": "https://myanimelist.net/anime/genre/1/Action"
+        }
+      ],
+      "explicit_genres": [],
+      "themes": [
+        {
+          "mal_id": 31,
+          "type": "anime",
+          "name": "Super Power",
+          "url": "https://myanimelist.net/anime/genre/31/Super_Power"
+        }
+      ],
+      "demographics": [
+        {
+          "mal_id": 27,
+          "type": "anime",
+          "name": "Shounen",
+          "url": "https://myanimelist.net/anime/genre/27/Shounen"
+        }
+      ]
+    },
+    {
+      "mal_id": 57519,
+      "url": "https://myanimelist.net/anime/57519/Boku_no_Hero_Academia__Memories",
+      "images": {
+        "jpg": {
+          "image_url": "https://cdn.myanimelist.net/images/anime/1607/142483.jpg",
+          "small_image_url": "https://cdn.myanimelist.net/images/anime/1607/142483t.jpg",
+          "large_image_url": "https://cdn.myanimelist.net/images/anime/1607/142483l.jpg"
+        },
+        "webp": {
+          "image_url": "https://cdn.myanimelist.net/images/anime/1607/142483.webp",
+          "small_image_url": "https://cdn.myanimelist.net/images/anime/1607/142483t.webp",
+          "large_image_url": "https://cdn.myanimelist.net/images/anime/1607/142483l.webp"
+        }
+      },
+      "trailer": {
+        "youtube_id": null,
+        "url": null,
+        "embed_url": null,
+        "images": {
+          "image_url": null,
+          "small_image_url": null,
+          "medium_image_url": null,
+          "large_image_url": null,
+          "maximum_image_url": null
+        }
+      },
+      "approved": true,
+      "titles": [
+        {
+          "type": "Default",
+          "title": "Boku no Hero Academia: Memories"
+        },
+        {
+          "type": "Japanese",
+          "title": "僕のヒーローアカデミア Memories"
+        },
+        {
+          "type": "English",
+          "title": "My Hero Academia: Memories"
+        }
+      ],
+      "title": "Boku no Hero Academia: Memories",
+      "title_english": "My Hero Academia: Memories",
+      "title_japanese": "僕のヒーローアカデミア Memories",
+      "title_synonyms": [],
+      "type": "TV Special",
+      "source": "Manga",
+      "episodes": 4,
+      "status": "Finished Airing",
+      "airing": false,
+      "aired": {
+        "from": "2024-04-06T00:00:00+00:00",
+        "to": "2024-04-27T00:00:00+00:00",
+        "prop": {
+          "from": {
+            "day": 6,
+            "month": 4,
+            "year": 2024
+          },
+          "to": {
+            "day": 27,
+            "month": 4,
+            "year": 2024
+          }
+        },
+        "string": "Apr 6, 2024 to Apr 27, 2024"
+      },
+      "duration": "23 min per ep",
+      "rating": "PG-13 - Teens 13 or older",
+      "score": 6.65,
+      "scored_by": 8473,
+      "rank": 6124,
+      "popularity": 5079,
+      "members": 20029,
+      "favorites": 18,
+      "synopsis": "Recap of Boku no Hero Academia leading up to the seventh season.",
+      "background": "",
+      "season": null,
+      "year": null,
+      "broadcast": {
+        "day": null,
+        "time": null,
+        "timezone": null,
+        "string": null
+      },
+      "producers": [
+        {
+          "mal_id": 1143,
+          "type": "anime",
+          "name": "TOHO animation",
+          "url": "https://myanimelist.net/anime/producer/1143/TOHO_animation"
+        }
+      ],
+      "licensors": [],
+      "studios": [
+        {
+          "mal_id": 4,
+          "type": "anime",
+          "name": "Bones",
+          "url": "https://myanimelist.net/anime/producer/4/Bones"
+        }
+      ],
+      "genres": [
+        {
+          "mal_id": 1,
+          "type": "anime",
+          "name": "Action",
+          "url": "https://myanimelist.net/anime/genre/1/Action"
+        }
+      ],
+      "explicit_genres": [],
+      "themes": [
+        {
+          "mal_id": 23,
+          "type": "anime",
+          "name": "School",
+          "url": "https://myanimelist.net/anime/genre/23/School"
+        },
+        {
+          "mal_id": 31,
+          "type": "anime",
+          "name": "Super Power",
+          "url": "https://myanimelist.net/anime/genre/31/Super_Power"
+        }
+      ],
+      "demographics": [
+        {
+          "mal_id": 27,
+          "type": "anime",
+          "name": "Shounen",
+          "url": "https://myanimelist.net/anime/genre/27/Shounen"
+        }
+      ]
+    },
+    {
+      "mal_id": 56685,
+      "url": "https://myanimelist.net/anime/56685/Boku_no_Hero_Academia__UA_Heroes_Battle",
+      "images": {
+        "jpg": {
+          "image_url": "https://cdn.myanimelist.net/images/anime/1094/138734.jpg",
+          "small_image_url": "https://cdn.myanimelist.net/images/anime/1094/138734t.jpg",
+          "large_image_url": "https://cdn.myanimelist.net/images/anime/1094/138734l.jpg"
+        },
+        "webp": {
+          "image_url": "https://cdn.myanimelist.net/images/anime/1094/138734.webp",
+          "small_image_url": "https://cdn.myanimelist.net/images/anime/1094/138734t.webp",
+          "large_image_url": "https://cdn.myanimelist.net/images/anime/1094/138734l.webp"
+        }
+      },
+      "trailer": {
+        "youtube_id": null,
+        "url": null,
+        "embed_url": null,
+        "images": {
+          "image_url": null,
+          "small_image_url": null,
+          "medium_image_url": null,
+          "large_image_url": null,
+          "maximum_image_url": null
+        }
+      },
+      "approved": true,
+      "titles": [
+        {
+          "type": "Default",
+          "title": "Boku no Hero Academia: UA Heroes Battle"
+        },
+        {
+          "type": "Japanese",
+          "title": "僕のヒーローアカデミア 雄英ヒーローズ・バトル"
+        },
+        {
+          "type": "English",
+          "title": "My Hero Academia: UA Heroes Battle"
+        }
+      ],
+      "title": "Boku no Hero Academia: UA Heroes Battle",
+      "title_english": "My Hero Academia: UA Heroes Battle",
+      "title_japanese": "僕のヒーローアカデミア 雄英ヒーローズ・バトル",
+      "title_synonyms": [],
+      "type": "Movie",
+      "source": "Manga",
+      "episodes": 1,
+      "status": "Finished Airing",
+      "airing": false,
+      "aired": {
+        "from": "2023-10-20T00:00:00+00:00",
+        "to": null,
+        "prop": {
+          "from": {
+            "day": 20,
+            "month": 10,
+            "year": 2023
+          },
+          "to": {
+            "day": null,
+            "month": null,
+            "year": null
+          }
+        },
+        "string": "Oct 20, 2023"
+      },
+      "duration": "23 min",
+      "rating": "PG-13 - Teens 13 or older",
+      "score": 6.73,
+      "scored_by": 10399,
+      "rank": 5680,
+      "popularity": 4758,
+      "members": 23407,
+      "favorites": 29,
+      "synopsis": "The stage this time is the UA dormitory, taking place just before the Endeavor Internship arc. Third-year Mirio Togata appears suddenly as the first-year students in Class A are bored during their ban from going outside. He brings with him the card game Yuuei Heroes Battle,created by the support class. As each student picks cards and joins the fierce battle, there seems to be more to the game than meets the eye. At the end, who will emerge victorious? (Source: ANN)",
+      "background": "",
+      "season": null,
+      "year": null,
+      "broadcast": {
+        "day": null,
+        "time": null,
+        "timezone": null,
+        "string": null
+      },
+      "producers": [],
+      "licensors": [],
+      "studios": [
+        {
+          "mal_id": 4,
+          "type": "anime",
+          "name": "Bones",
+          "url": "https://myanimelist.net/anime/producer/4/Bones"
+        }
+      ],
+      "genres": [
+        {
+          "mal_id": 1,
+          "type": "anime",
+          "name": "Action",
+          "url": "https://myanimelist.net/anime/genre/1/Action"
+        }
+      ],
+      "explicit_genres": [],
+      "themes": [
+        {
+          "mal_id": 23,
+          "type": "anime",
+          "name": "School",
+          "url": "https://myanimelist.net/anime/genre/23/School"
+        },
+        {
+          "mal_id": 31,
+          "type": "anime",
+          "name": "Super Power",
+          "url": "https://myanimelist.net/anime/genre/31/Super_Power"
+        }
+      ],
+      "demographics": [
+        {
+          "mal_id": 27,
+          "type": "anime",
+          "name": "Shounen",
+          "url": "https://myanimelist.net/anime/genre/27/Shounen"
+        }
+      ]
+    },
+    {
+      "mal_id": 56196,
+      "url": "https://myanimelist.net/anime/56196/Boku_no_Hero_Academia_the_Movie_4__Youre_Next",
+      "images": {
+        "jpg": {
+          "image_url": "https://cdn.myanimelist.net/images/anime/1480/143549.jpg",
+          "small_image_url": "https://cdn.myanimelist.net/images/anime/1480/143549t.jpg",
+          "large_image_url": "https://cdn.myanimelist.net/images/anime/1480/143549l.jpg"
+        },
+        "webp": {
+          "image_url": "https://cdn.myanimelist.net/images/anime/1480/143549.webp",
+          "small_image_url": "https://cdn.myanimelist.net/images/anime/1480/143549t.webp",
+          "large_image_url": "https://cdn.myanimelist.net/images/anime/1480/143549l.webp"
+        }
+      },
+      "trailer": {
+        "youtube_id": "ZPUmCFgZPPA",
+        "url": "https://www.youtube.com/watch?v=ZPUmCFgZPPA",
+        "embed_url": "https://www.youtube.com/embed/ZPUmCFgZPPA?enablejsapi=1&wmode=opaque&autoplay=1",
+        "images": {
+          "image_url": "https://img.youtube.com/vi/ZPUmCFgZPPA/default.jpg",
+          "small_image_url": "https://img.youtube.com/vi/ZPUmCFgZPPA/sddefault.jpg",
+          "medium_image_url": "https://img.youtube.com/vi/ZPUmCFgZPPA/mqdefault.jpg",
+          "large_image_url": "https://img.youtube.com/vi/ZPUmCFgZPPA/hqdefault.jpg",
+          "maximum_image_url": "https://img.youtube.com/vi/ZPUmCFgZPPA/maxresdefault.jpg"
+        }
+      },
+      "approved": true,
+      "titles": [
+        {
+          "type": "Default",
+          "title": "Boku no Hero Academia the Movie 4: You're Next"
+        },
+        {
+          "type": "Japanese",
+          "title": "僕のヒーローアカデミアTHE MOVIE ユアネクスト"
+        },
+        {
+          "type": "English",
+          "title": "My Hero Academia: You're Next"
+        }
+      ],
+      "title": "Boku no Hero Academia the Movie 4: You're Next",
+      "title_english": "My Hero Academia: You're Next",
+      "title_japanese": "僕のヒーローアカデミアTHE MOVIE ユアネクスト",
+      "title_synonyms": [],
+      "type": "Movie",
+      "source": "Manga",
+      "episodes": 1,
+      "status": "Finished Airing",
+      "airing": false,
+      "aired": {
+        "from": "2024-08-02T00:00:00+00:00",
+        "to": null,
+        "prop": {
+          "from": {
+            "day": 2,
+            "month": 8,
+            "year": 2024
+          },
+          "to": {
+            "day": null,
+            "month": null,
+            "year": null
+          }
+        },
+        "string": "Aug 2, 2024"
+      },
+      "duration": "1 hr 50 min",
+      "rating": "PG-13 - Teens 13 or older",
+      "score": 7.51,
+      "scored_by": 6660,
+      "rank": 1903,
+      "popularity": 3009,
+      "members": 58910,
+      "favorites": 195,
+      "synopsis": "The fourth Boku no Hero Academia movie.",
+      "background": "",
+      "season": null,
+      "year": null,
+      "broadcast": {
+        "day": null,
+        "time": null,
+        "timezone": null,
+        "string": null
+      },
+      "producers": [
+        {
+          "mal_id": 53,
+          "type": "anime",
+          "name": "Dentsu",
+          "url": "https://myanimelist.net/anime/producer/53/Dentsu"
+        },
+        {
+          "mal_id": 76,
+          "type": "anime",
+          "name": "Yomiuri Telecasting",
+          "url": "https://myanimelist.net/anime/producer/76/Yomiuri_Telecasting"
+        },
+        {
+          "mal_id": 166,
+          "type": "anime",
+          "name": "Movic",
+          "url": "https://myanimelist.net/anime/producer/166/Movic"
+        },
+        {
+          "mal_id": 245,
+          "type": "anime",
+          "name": "TOHO",
+          "url": "https://myanimelist.net/anime/producer/245/TOHO"
+        },
+        {
+          "mal_id": 757,
+          "type": "anime",
+          "name": "Sony Music Entertainment",
+          "url": "https://myanimelist.net/anime/producer/757/Sony_Music_Entertainment"
+        },
+        {
+          "mal_id": 1003,
+          "type": "anime",
+          "name": "Nippon Television Network",
+          "url": "https://myanimelist.net/anime/producer/1003/Nippon_Television_Network"
+        },
+        {
+          "mal_id": 1143,
+          "type": "anime",
+          "name": "TOHO animation",
+          "url": "https://myanimelist.net/anime/producer/1143/TOHO_animation"
+        },
+        {
+          "mal_id": 1365,
+          "type": "anime",
+          "name": "Shueisha",
+          "url": "https://myanimelist.net/anime/producer/1365/Shueisha"
+        }
+      ],
+      "licensors": [],
+      "studios": [
+        {
+          "mal_id": 4,
+          "type": "anime",
+          "name": "Bones",
+          "url": "https://myanimelist.net/anime/producer/4/Bones"
+        }
+      ],
+      "genres": [
+        {
+          "mal_id": 1,
+          "type": "anime",
+          "name": "Action",
+          "url": "https://myanimelist.net/anime/genre/1/Action"
+        }
+      ],
+      "explicit_genres": [],
+      "themes": [
+        {
+          "mal_id": 23,
+          "type": "anime",
+          "name": "School",
+          "url": "https://myanimelist.net/anime/genre/23/School"
+        },
+        {
+          "mal_id": 31,
+          "type": "anime",
+          "name": "Super Power",
+          "url": "https://myanimelist.net/anime/genre/31/Super_Power"
+        }
+      ],
+      "demographics": [
+        {
+          "mal_id": 27,
+          "type": "anime",
+          "name": "Shounen",
+          "url": "https://myanimelist.net/anime/genre/27/Shounen"
+        }
+      ]
+    },
+    {
+      "mal_id": 30943,
+      "url": "https://myanimelist.net/anime/30943/Ojiichan_wa_Boku_no_Hero",
+      "images": {
+        "jpg": {
+          "image_url": "https://cdn.myanimelist.net/images/anime/2/74446.jpg",
+          "small_image_url": "https://cdn.myanimelist.net/images/anime/2/74446t.jpg",
+          "large_image_url": "https://cdn.myanimelist.net/images/anime/2/74446l.jpg"
+        },
+        "webp": {
+          "image_url": "https://cdn.myanimelist.net/images/anime/2/74446.webp",
+          "small_image_url": "https://cdn.myanimelist.net/images/anime/2/74446t.webp",
+          "large_image_url": "https://cdn.myanimelist.net/images/anime/2/74446l.webp"
+        }
+      },
+      "trailer": {
+        "youtube_id": null,
+        "url": null,
+        "embed_url": null,
+        "images": {
+          "image_url": null,
+          "small_image_url": null,
+          "medium_image_url": null,
+          "large_image_url": null,
+          "maximum_image_url": null
+        }
+      },
+      "approved": true,
+      "titles": [
+        {
+          "type": "Default",
+          "title": "Ojiichan wa Boku no Hero"
+        },
+        {
+          "type": "Japanese",
+          "title": "おじいちゃんはボクのヒーロー"
+        }
+      ],
+      "title": "Ojiichan wa Boku no Hero",
+      "title_english": null,
+      "title_japanese": "おじいちゃんはボクのヒーロー",
+      "title_synonyms": [],
+      "type": "OVA",
+      "source": "Unknown",
+      "episodes": 1,
+      "status": "Finished Airing",
+      "airing": false,
+      "aired": {
+        "from": "2000-01-01T00:00:00+00:00",
+        "to": null,
+        "prop": {
+          "from": {
+            "day": 1,
+            "month": 1,
+            "year": 2000
+          },
+          "to": {
+            "day": null,
+            "month": null,
+            "year": null
+          }
+        },
+        "string": "2000"
+      },
+      "duration": "10 min",
+      "rating": "G - All Ages",
+      "score": null,
+      "scored_by": null,
+      "rank": 18048,
+      "popularity": 15237,
+      "members": 726,
+      "favorites": 0,
+      "synopsis": "An educational film for Respect for the Aged Day.",
+      "background": "",
+      "season": null,
+      "year": null,
+      "broadcast": {
+        "day": null,
+        "time": null,
+        "timezone": null,
+        "string": null
+      },
+      "producers": [],
+      "licensors": [],
+      "studios": [],
+      "genres": [
+        {
+          "mal_id": 8,
+          "type": "anime",
+          "name": "Drama",
+          "url": "https://myanimelist.net/anime/genre/8/Drama"
+        }
+      ],
+      "explicit_genres": [],
+      "themes": [],
+      "demographics": [
+        {
+          "mal_id": 15,
+          "type": "anime",
+          "name": "Kids",
+          "url": "https://myanimelist.net/anime/genre/15/Kids"
+        }
+      ]
+    },
+    {
+      "mal_id": 53804,
+      "url": "https://myanimelist.net/anime/53804/Boku_wa_Hero",
+      "images": {
+        "jpg": {
+          "image_url": "https://cdn.myanimelist.net/images/anime/1357/131730.jpg",
+          "small_image_url": "https://cdn.myanimelist.net/images/anime/1357/131730t.jpg",
+          "large_image_url": "https://cdn.myanimelist.net/images/anime/1357/131730l.jpg"
+        },
+        "webp": {
+          "image_url": "https://cdn.myanimelist.net/images/anime/1357/131730.webp",
+          "small_image_url": "https://cdn.myanimelist.net/images/anime/1357/131730t.webp",
+          "large_image_url": "https://cdn.myanimelist.net/images/anime/1357/131730l.webp"
+        }
+      },
+      "trailer": {
+        "youtube_id": null,
+        "url": null,
+        "embed_url": null,
+        "images": {
+          "image_url": null,
+          "small_image_url": null,
+          "medium_image_url": null,
+          "large_image_url": null,
+          "maximum_image_url": null
+        }
+      },
+      "approved": true,
+      "titles": [
+        {
+          "type": "Default",
+          "title": "Boku wa Hero"
+        },
+        {
+          "type": "Synonym",
+          "title": "Minna no Uta"
+        },
+        {
+          "type": "Japanese",
+          "title": "ぼくはヒーロー"
+        }
+      ],
+      "title": "Boku wa Hero",
+      "title_english": null,
+      "title_japanese": "ぼくはヒーロー",
+      "title_synonyms": [
+        "Minna no Uta"
+      ],
+      "type": "Music",
+      "source": "Original",
+      "episodes": 1,
+      "status": "Finished Airing",
+      "airing": false,
+      "aired": {
+        "from": "2019-02-03T00:00:00+00:00",
+        "to": null,
+        "prop": {
+          "from": {
+            "day": 3,
+            "month": 2,
+            "year": 2019
+          },
+          "to": {
+            "day": null,
+            "month": null,
+            "year": null
+          }
+        },
+        "string": "Feb 3, 2019"
+      },
+      "duration": "2 min",
+      "rating": "G - All Ages",
+      "score": null,
+      "scored_by": null,
+      "rank": null,
+      "popularity": 22515,
+      "members": 142,
+      "favorites": 0,
+      "synopsis": "Music video for the song Boku wa Hero by Mamoru Miyano that was featured on NHK's Minna no Uta program.",
+      "background": "",
+      "season": null,
+      "year": null,
+      "broadcast": {
+        "day": null,
+        "time": null,
+        "timezone": null,
+        "string": null
+      },
+      "producers": [
+        {
+          "mal_id": 111,
+          "type": "anime",
+          "name": "NHK",
+          "url": "https://myanimelist.net/anime/producer/111/NHK"
+        }
+      ],
+      "licensors": [],
+      "studios": [],
+      "genres": [],
+      "explicit_genres": [],
+      "themes": [
+        {
+          "mal_id": 19,
+          "type": "anime",
+          "name": "Music",
+          "url": "https://myanimelist.net/anime/genre/19/Music"
+        }
+      ],
+      "demographics": [
+        {
+          "mal_id": 15,
+          "type": "anime",
+          "name": "Kids",
+          "url": "https://myanimelist.net/anime/genre/15/Kids"
+        }
+      ]
+    }
+  ]
+}

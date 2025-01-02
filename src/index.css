@@ -1,0 +1,24 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+*{
+  margin: 0;
+  display: 0;
+  box-sizing: border-box;
+}
+
+body{
+  background-color: #191919;
+  color: white;
+}
+
+.effect-blur{
+  background-color: #fafafa10;
+  backdrop-filter: blur(0.4rem);
+  -webkit-backdrop-filter: blur(0.4rem);
+}
+
+.btn-danger{
+  @apply bg-red-500 px-3 py-2 rounded-lg;
+}
