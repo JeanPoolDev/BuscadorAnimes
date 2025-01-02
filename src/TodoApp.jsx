@@ -20,7 +20,7 @@ export function TodoApp() {
 
         <header className="m-10 space-y-6">
           <h1 className="text-6xl text-center">
-            Buscador de Pelicular y Todos
+            Buscador de Animes y Todos
           </h1>
 
           <TodosForm onGetTodo={handleForm} onGetAnime={handleGetAnime} />
