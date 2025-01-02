@@ -1,7 +1,7 @@
 
 const ResponseAnimes = ({ animes }) => {
   return (
-    <ul className="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 place-content-center gap-4">
+    <ul className="grid grid-cols-2 place-content-center gap-4">
       {animes.slice(0, 4).map(anime => (
         <li key={anime.id}>
           <img
